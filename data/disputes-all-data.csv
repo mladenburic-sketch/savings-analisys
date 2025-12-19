@@ -1,0 +1,1280 @@
+po_number,disputedAt,disputedReason,original_oeJobId,original_invoice_number,customerName,siteName,resolution_type,overrideNotes,discrepancy_status,discrepancy_type,item,expected_rate,billed_rate,difference_per_unit,gallons,discrepancy_value,overriddenAt,overriddenBy,archivedAt,replacedByJobId
+PO48431,2025-12-18T14:11:43.630Z,Minimum Billable was doubled. Should be $270.08,OE00039881,27266664,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_active,,disputed,unexpected_line_item,Minimum Billable,0,540.17,540.17,1,540.17,,,,
+PO48431,2025-12-18T14:11:43.630Z,Minimum Billable was doubled. Should be $270.08,OE00039881,27266664,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_active,,detected,missing_line_item,Minimum Gallon Delivery Fee,270.92,0,-270.92,1,-270.92,,,,
+PO49206,2025-12-18T13:28:36.226Z,Double Charged Minimum Billable.,OE00040156,27231171,Carrix,SSAT - Long Beach - Pier A - 700 Pier A Plaza,dispute_active,,disputed,price_discrepancy,Minimum Gallon Delivery Fee,154.72,309.44,154.72,1,154.72,,,,
+PO49205,2025-12-18T13:26:40.081Z,Double charged for Minimum Billable.,OE00040157,27231163,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_active,,disputed,price_discrepancy,Minimum Gallon Delivery Fee,154.72,309.44,154.72,1,154.72,,,,
+PO48910,2025-12-17T19:26:49.296Z,"Clear Diesel-Gross Contract Average Unbranded For Pittsburgh: $2.268
+Jacobs Margin: $.25
+Price Per Contract: $2.518
+Vendor Billed: $2.7409
+
+Difference: $.2229",OE00039537,2080775,"Lazer Spot, Inc.","Lazer - Site 102791- Morgantown, WV",dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.518,2.7409,0.2229,72.2,16.09338,,,,
+PO47244,2025-12-17T19:21:39.846Z,"Dyed Diesel-Gross Contract Average Unbranded For Pittsburgh: $2.2805
+Jacobs Margin: $.25
+Total Price Per Contract: $2.5305
+Vendor Billed 2.6299
+
+Difference: $.0994",OE00040025,2094154,"Lazer Spot, Inc.","Lazer - Site 102791- Morgantown, WV",dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.5305,2.6299,0.0994,101.9,10.128860000000001,,,,
+PO49141,2025-12-16T15:34:18.665Z,"Expected Rate was $2.3988 vs Billed Rate of $2.4107. Please issue Credit and Rebill. ",OE00040082,25-538976,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_active,,disputed,price_discrepancy,87 Unleaded (w/10% Eth),2.3988,2.4107,0.0119,500,5.95,,,,
+PO49134,2025-12-16T13:52:22.474Z,Expected Pricing was $2.3165 vs. Billed Pricing at $2.2941. Please correct and issue Credit Rebill.,OE00040031,27298127,Carrix,LSI - Columbus - 1864 Port Access Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.3165,2.2941,-0.0224,1591,-35.6384,,,,
+PO49042,2025-12-16T13:15:37.150Z,"Expected Pricing was $2.8414 vs. Billed Pricing of $2.901397. Please issue Credit Rebill to correct. ",OE00039841,IN-1673226A,Carrix,SSA Atlantic - Morehead City - 113 Arendell St Ste 208,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8414,2.901397,0.059997,1417.5,85.0457475,,,,
+PO49084,2025-12-16T13:11:46.186Z,Pricing should have been $2.511 vs. $2.571002,OE00039843,IN-1681867A,Carrix,SSA Atlantic - Morehead City - 113 Arendell St Ste 208,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.511,2.571002,0.060002,1658.4,99.5073168,,,,
+PO49126,2025-12-15T19:14:00.238Z,Waiting on corrected invoice.,OE00039072,CFS-4443338,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3783,40,36.6217,1,36.6217,,,,
+PO49126,2025-12-15T19:14:00.238Z,Waiting on corrected invoice.,OE00039072,CFS-4443338,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3783,3.92329,0.54499,49.8,27.140501999999998,,,,
+PO49126,2025-12-15T19:14:00.238Z,Waiting on corrected invoice.,OE00039072,CFS-4443338,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3783,3.9231,0.5448,61.9,33.723119999999994,,,,
+PO49126,2025-12-15T19:14:00.238Z,Waiting on corrected invoice.,OE00039072,CFS-4443338,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3783,3.92321,0.54491,76.7,41.794597,,,,
+PO49126,2025-12-15T19:14:00.238Z,Waiting on corrected invoice.,OE00039072,CFS-4443338,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3783,3.92339,0.54509,77.4,42.189966,,,,
+PO49126,2025-12-15T19:14:00.238Z,Waiting on corrected invoice.,OE00039072,CFS-4443338,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3783,3.92328,0.54498,78.6,42.835428,,,,
+PO49126,2025-12-15T19:14:00.238Z,Waiting on corrected invoice.,OE00039072,CFS-4443338,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3783,3.92316,0.54486,72.1,39.284406,,,,
+PO49126,2025-12-15T19:14:00.238Z,Waiting on corrected invoice.,OE00039072,CFS-4443338,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3783,3.92291,0.54461,51.5,28.047415,,,,
+PO49125,2025-12-15T19:05:19.335Z,Waiting on corrected invoice,OE00039174,CFS-4443391,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3611,3.90424,0.54314,115.7,62.841297999999995,,,,
+PO49125,2025-12-15T19:05:19.335Z,Waiting on corrected invoice,OE00039174,CFS-4443391,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3611,3.90403,0.54293,59.6,32.358628,,,,
+PO49125,2025-12-15T19:05:19.335Z,Waiting on corrected invoice,OE00039174,CFS-4443391,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3611,3.90155,0.54045,110,59.4495,,,,
+PO49125,2025-12-15T19:05:19.335Z,Waiting on corrected invoice,OE00039174,CFS-4443391,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3611,3.9,0.5389,0.4,0.21556000000000003,,,,
+PO49125,2025-12-15T19:05:19.335Z,Waiting on corrected invoice,OE00039174,CFS-4443391,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3611,3.90147,0.54037,95,51.33515,,,,
+PO49125,2025-12-15T19:05:19.335Z,Waiting on corrected invoice,OE00039174,CFS-4443391,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3611,3.90404,0.54294,76.7,41.643498,,,,
+PO49125,2025-12-15T19:05:19.335Z,Waiting on corrected invoice,OE00039174,CFS-4443391,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3611,3.90404,0.54294,71.8,38.983092,,,,
+PO49124,2025-12-15T18:59:32.540Z,Waiting on corrected invoice,OE00039322,CFS-4455401,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.394,3.94076,0.54676,86.6,47.349416,,,,
+PO49124,2025-12-15T18:59:32.540Z,Waiting on corrected invoice,OE00039322,CFS-4455401,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.394,3.9409,0.5469,71.4,39.048660000000005,,,,
+PO49124,2025-12-15T18:59:32.540Z,Waiting on corrected invoice,OE00039322,CFS-4455401,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.394,3.94068,0.54668,44,24.05392,,,,
+PO49123,2025-12-15T18:52:36.745Z,Waiting on corrected invoice.,OE00039363,CFS-4460404,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3354,3.87543,0.54003,63.5,34.291905,,,,
+PO49123,2025-12-15T18:52:36.745Z,Waiting on corrected invoice.,OE00039363,CFS-4460404,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3354,3.8752,0.5398,36.7,19.81066,,,,
+PO49123,2025-12-15T18:52:36.745Z,Waiting on corrected invoice.,OE00039363,CFS-4460404,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3354,3.87519,0.53979,52,28.06908,,,,
+PO49123,2025-12-15T18:52:36.745Z,Waiting on corrected invoice.,OE00039363,CFS-4460404,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3354,3.87517,0.53977,87.8,47.391805999999995,,,,
+PO49122,2025-12-15T18:49:45.907Z,Waiting on corrected invoice,OE00039415,CFS-4460520,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3176,3.7914,0.4738,55.8,26.438039999999997,,,,
+PO49122,2025-12-15T18:49:45.907Z,Waiting on corrected invoice,OE00039415,CFS-4460520,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3176,3.79116,0.47356,49.8,23.583287999999996,,,,
+PO49122,2025-12-15T18:49:45.907Z,Waiting on corrected invoice,OE00039415,CFS-4460520,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3176,3.791,0.4734,60,28.404,,,,
+PO49122,2025-12-15T18:49:45.907Z,Waiting on corrected invoice,OE00039415,CFS-4460520,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3176,3.79093,0.47333,47.4,22.435841999999997,,,,
+PO49121,2025-12-15T18:47:42.955Z,Waiting on Corrected Invoices,OE00039601,CFS-4460993,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3548,3.83243,0.47763,121.5,58.032045,,,,
+PO49121,2025-12-15T18:47:42.955Z,Waiting on Corrected Invoices,OE00039601,CFS-4460993,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3548,3.83259,0.47779,67.5,32.250825,,,,
+PO49121,2025-12-15T18:47:42.955Z,Waiting on Corrected Invoices,OE00039601,CFS-4460993,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3548,3.83252,0.47772,45.2,21.592944,,,,
+PO49119,2025-12-15T18:46:13.928Z,Waiting on Corrected Invoices,OE00039756,CFS-4462453,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1255,3.57657,0.45107,39.7,17.907479000000002,,,,
+PO49119,2025-12-15T18:46:13.928Z,Waiting on Corrected Invoices,OE00039756,CFS-4462453,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1255,3.57589,0.45039,14.1,6.350499,,,,
+PO49119,2025-12-15T18:46:13.928Z,Waiting on Corrected Invoices,OE00039756,CFS-4462453,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1255,3.57633,0.45083,33.8,15.238053999999998,,,,
+PO49119,2025-12-15T18:46:13.928Z,Waiting on Corrected Invoices,OE00039756,CFS-4462453,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1255,3.57643,0.45093,105.2,47.437836000000004,,,,
+PO49119,2025-12-15T18:46:13.928Z,Waiting on Corrected Invoices,OE00039756,CFS-4462453,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1255,3.5764,0.4509,71.2,32.10408,,,,
+PO49119,2025-12-15T18:46:13.928Z,Waiting on Corrected Invoices,OE00039756,CFS-4462453,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1255,3.5763,0.4508,57.8,26.05624,,,,
+PO49119,2025-12-15T18:46:13.928Z,Waiting on Corrected Invoices,OE00039756,CFS-4462453,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1255,3.57671,0.45121,85,38.35285,,,,
+PO49119,2025-12-15T18:46:13.928Z,Waiting on Corrected Invoices,OE00039756,CFS-4462453,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1255,3.57692,0.45142,27.3,12.323765999999999,,,,
+PO49110,2025-12-15T17:20:31.822Z,Billed $2.455402 vs. $2.365 Expected. Please Credit Rebill to correct.,OE00039839,25-537183,Carrix,SSAT - Seattle - T5 CEM - 3443 W Marginal Way SW,dispute_active,,disputed,price_discrepancy,87 Unleaded (w/10% Eth),2.365,2.455402,0.090402,2951,266.776302,,,,
+PO49053,2025-12-12T18:27:40.053Z,Needing Taxes broken out from pricing.,OE00039037,CFS-4442851,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.4274,3.978,0.5506,75.9,41.79054,,,,
+PO49053,2025-12-12T18:27:40.053Z,Needing Taxes broken out from pricing.,OE00039037,CFS-4442851,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.4274,3.97801,0.55061,103.7,57.098257000000004,,,,
+PO49053,2025-12-12T18:27:40.053Z,Needing Taxes broken out from pricing.,OE00039037,CFS-4442851,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.4274,3.97776,0.55036,49,26.96764,,,,
+PO49053,2025-12-12T18:27:40.053Z,Needing Taxes broken out from pricing.,OE00039037,CFS-4442851,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.4274,3.97801,0.55061,71.4,39.313554,,,,
+PO49052,2025-12-12T18:25:10.887Z,,OE00038871,CFS-4441320,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5311,4.09386,0.56276,22.8,12.830928000000002,,,,
+PO49052,2025-12-12T18:25:10.887Z,,OE00038871,CFS-4441320,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5311,4.09422,0.56312,65.7,36.996984,,,,
+PO49052,2025-12-12T18:25:10.887Z,,OE00038871,CFS-4441320,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5311,4.02881,0.49771,78.1,38.871151,,,,
+PO49052,2025-12-12T18:25:10.887Z,,OE00038871,CFS-4441320,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5311,4.02869,0.49759,81.2,40.404308,,,,
+PO49052,2025-12-12T18:25:10.887Z,,OE00038871,CFS-4441320,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5311,4.09391,0.56281,159.2,89.599352,,,,
+PO49052,2025-12-12T18:25:10.887Z,,OE00038871,CFS-4441320,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5311,4.09434,0.56324,37.1,20.896204,,,,
+PO49052,2025-12-12T18:25:10.887Z,,OE00038871,CFS-4441320,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5311,4.09387,0.56277,76.7,43.164459,,,,
+PO49052,2025-12-12T18:25:10.887Z,,OE00038871,CFS-4441320,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5311,4.0939,0.5628,63.9,35.96292,,,,
+PO49052,2025-12-12T18:25:10.887Z,,OE00038871,CFS-4441320,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5311,4.09352,0.56242,58.6,32.957812000000004,,,,
+PO49052,2025-12-12T18:25:10.887Z,,OE00038871,CFS-4441320,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5311,4.02868,0.49758,82.3,40.950834,,,,
+PO49051,2025-12-12T18:20:52.841Z,Need taxes broken out from product pricing and labor fee removed,OE00038769,CFS-4441247,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,unexpected_line_item,010013991049 - FF RTS 680485-091 11/20/25 1:22a 010013991049 WFS FF SEATTLE WA 17: Labor,0,40,40,1,40,,,,
+PO49051,2025-12-12T18:20:52.841Z,Need taxes broken out from product pricing and labor fee removed,OE00038769,CFS-4441247,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,detected,missing_line_item,Red Dye Diesel #2 - ULS,3.6115,0,-3.6115,1,-3.6115,,,,
+PO49051,2025-12-12T18:20:52.841Z,Need taxes broken out from product pricing and labor fee removed,OE00038769,CFS-4441247,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.6115,4.1837,0.5722,77.9,44.574380000000005,,,,
+PO49051,2025-12-12T18:20:52.841Z,Need taxes broken out from product pricing and labor fee removed,OE00038769,CFS-4441247,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.6115,4.18359,0.57209,52.4,29.977515999999998,,,,
+PO49051,2025-12-12T18:20:52.841Z,Need taxes broken out from product pricing and labor fee removed,OE00038769,CFS-4441247,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.6115,4.18355,0.57205,54.7,31.291134999999997,,,,
+PO49033,2025-12-12T18:08:15.766Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.2625
+4Refuel Margin: $.275
+Total Price Per Contract: $2.5375
+Vendor Billed: $2.63
+
+Difference: $.0925",OE00039632,1073363,"Quality Technology Services, LLC (QTS)",FTW1-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,0.275,2.63,2.355,390,918.45,,,,
+PO48987,2025-12-12T14:41:48.099Z,"Product price is incorrect.  Please credit and rebill. ",OE00039687,27282318,Carrix,LSI - Columbus - 1864 Port Access Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.597,2.5831,-0.0139,1275,-17.7225,,,,
+PO48992,2025-12-12T14:41:04.416Z,"Product price is incorrect.  Please credit and rebill. ",OE00039712,27282230,Carrix,LSI - Columbus - 1864 Port Access Rd,dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.595,2.5819,-0.0131,434,-5.6854000000000005,,,,
+PO49044,2025-12-12T12:51:39.943Z,Billed Price was $2.581 vs. Expected Price of $2.511. Please correct and issue Credit and Rebill.,OE00039677,IN-1681867,Carrix,SSA Atlantic - Morehead City - 113 Arendell St Ste 208,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.511,2.581,0.07,1658.4,116.08800000000002,,,,
+PO49021,2025-12-11T18:15:09.881Z,Expected pricing is 2.3084 vs 2.2948. Please credit and rebill to correct.,OE00039483,RO278159,Carrix,"3310/3416 Carondelet Avenue - Dupo, IL",dispute_active,,disputed,price_discrepancy,Red Dye Diesel (Winter) - ULS,2.3084,2.2948,-0.0136,251.3,-3.41768,,,,
+PO48903,2025-12-08T21:40:27.065Z,"Expected Pricing was $2.9628 vs $2.9574 Billed ",OE00039297,SP13179765,Carrix,PRS - Syracuse - 600 Fremont Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel (Winter) - ULS,2.9628,2.9574,-0.0054,648,-3.4992,,,,
+PO48899,2025-12-08T21:16:58.374Z,Expected Price was $3.10 vs. $3.1555 that was billed. Please issue Credit and Rebill to correct.,OE00039291,SP13177634,Carrix,PRS - Buffalo - 500 Bison Pkwy,dispute_active,,disputed,price_discrepancy,Red Dye Diesel (Winter) - ULS,3.1,3.1555,0.0555,72.6,4.0293,,,,
+PO48888,2025-12-08T18:06:17.433Z,"Expected Rate was $2.037 vs. $2.0735, please issue Credit Rebill to correct.",OE00039065,RO276635,Carrix,"3310/3416 Carondelet Avenue - Dupo, IL",dispute_active,,disputed,price_discrepancy,87 Unleaded - Reform (w/10% Eth),2.037,2.0735,0.0365,51.3,1.8724499999999997,,,,
+PO48823,2025-12-07T17:44:07.049Z,"Please correct pricing.  It appears that you are using 11/25 pricing for 11/26 delivery date. ",OE00039290,SP13177633,Carrix,PRS - Buffalo - 500 Bison Pkwy,dispute_active,,disputed,price_discrepancy,Red Dye Diesel (Winter) - ULS,3.1,3.1555,0.0555,219.8,12.1989,,,,
+PO45789,2025-12-04T21:34:05.898Z,Please Credit Rebill. Expected rate was $2.9148 vs. Billed rate of $2.88211,OE00039143,182457DD,"Lazer Spot, Inc.","Molson - Site 102138 - Albany, GA",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.9148,2.88211,-0.03269,232,-7.584079999999999,,,,
+PO48775,2025-12-03T22:34:23.219Z,"Billed Minimum Gallons Fee off of Diesel Rate (7,500 Gallons) vs. Gas Rate (8,500). Please issue Credit Rebill. ",OE00038959,27216458,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_active,,disputed,price_discrepancy,Minimum Gallon Delivery Fee,353.02,301.13,-51.89,1,-51.89,,,,
+PO48763,2025-12-03T20:51:07.240Z,"Per Schedule, pricing should be without CAR. Please correct and Credit Rebill. ",OE00039221,27237943,Carrix,SSA Pacific - Sacramento - 2895 Industrial Blvd Ste 100,dispute_active,,disputed,price_discrepancy,Dyed ULS CARB Dsl with 99% Renewable Dsl (Non-Bio),2.8918,3.0591,0.1673,2701,451.8773,,,,
+PO48750,2025-12-03T16:31:59.663Z,Minimum Billable was billed off Diesel Rate (7500 Gallons) vs. Gas Rate (8500 Gallons).,OE00038958,27216496,Carrix,SSAT - Long Beach - Pier A - 700 Pier A Plaza,dispute_active,,disputed,price_discrepancy,Minimum Gallon Delivery Fee,353.02,301.13,-51.89,1,-51.89,,,,
+PO47906,2025-12-01T21:45:18.214Z,"Total differential of .38 should be in freight line item. Surcharge was not listed in RFP.  ",OE00037834,27142404,Carrix,LSI - Columbus - 1864 Port Access Rd,dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.4341,2.5211,0.087,399,34.713,,,,
+PO48098,2025-11-25T15:23:35.776Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.376
+4 Refuel Margin: $.75
+Total Price Per Contract: $3.126
+Vendor Billed: $3.2253
+
+Difference: $.0993",OE00038875,1072526,US Foods Chef' Store,"CHEF'STORE Farmers Branch, TX",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),3.126,3.2253,0.0993,12.1,1.20153,,,,
+PO48472,2025-11-25T15:20:21.933Z,Minimum Billable Gallons based on Diesel Rate (7500 Gallons) vs. Gas Rate (8500 Gallons). Please issue Credit Rebill.,OE00038783,27206622,Carrix,SSAT - Long Beach - Pier A - 700 Pier A Plaza,dispute_active,,disputed,price_discrepancy,Minimum Gallon Delivery Fee,259.66,207.76,-51.9,1,-51.9,,,,
+PO48471,2025-11-25T15:11:08.836Z,Minimum Billable was billed off Diesel (7500 Gallons) vs. Gas (8500 Gallons). Please issue Credit Rebill to correct,OE00038785,27206609,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_active,,disputed,price_discrepancy,Minimum Gallon Delivery Fee,259.66,207.76,-51.9,1,-51.9,,,,
+PO48468,2025-11-25T13:33:12.336Z,Delivery Fee should have been $50 vs. $200 and there is a pricing discrepancy. Missing Delivery Ticket. Please issue Credit Rebill,OE00038557,27200915,Carrix,PRS - Morrisville - 98 Cabot Blvd E,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.6115,2.6309,0.0194,1658,32.1652,,,2025-11-25T20:17:02.365Z,OE00038956
+PO48468,2025-11-25T13:33:12.336Z,Delivery Fee should have been $50 vs. $200 and there is a pricing discrepancy. Missing Delivery Ticket. Please issue Credit Rebill,OE00038557,27200915,Carrix,PRS - Morrisville - 98 Cabot Blvd E,dispute_active,,disputed,price_discrepancy,Delivery Fee,50,200,150,1,150,,,2025-11-25T20:17:02.365Z,OE00038956
+PO48097,2025-11-25T12:57:11.926Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.376
+4 Refuel Margin: $.75
+Total Price Per Contract: $3.126
+Vendor Billed: $3.2253
+
+Difference: $.0993",OE00038872,1072516,US Foods Chef' Store,"CHEF'STORE Farmers Branch, TX",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),3.2181,3.2253,0.0072,9.7,0.06984,,,,
+PO48097,2025-11-25T12:57:11.926Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.376
+4 Refuel Margin: $.75
+Total Price Per Contract: $3.126
+Vendor Billed: $3.2253
+
+Difference: $.0993",OE00038872,1072516,US Foods Chef' Store,"CHEF'STORE Farmers Branch, TX",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),3.2181,3.2253,0.0072,9.9,0.07128,,,,
+PO48460,2025-11-25T02:34:23.058Z,Price discrepancy.,OE00038598,11512443,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.949,3.1371,0.1881,551.1,103.66190999999999,,,,
+PO48453,2025-11-25T02:05:37.014Z,"Price is incorrect according to rfp. ",OE00038578,CFS-4441152,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.4036,4.08133,0.67773,82.5,55.912725,,,,
+PO48453,2025-11-25T02:05:37.014Z,"Price is incorrect according to rfp. ",OE00038578,CFS-4441152,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.4036,4.08107,0.67747,93.5,63.343445,,,,
+PO48453,2025-11-25T02:05:37.014Z,"Price is incorrect according to rfp. ",OE00038578,CFS-4441152,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.4036,4.0813,0.6777,54,36.5958,,,,
+PO48449,2025-11-25T01:22:04.824Z,"Product price is incorrect. ",OE00038893,25-524220,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_active,,disputed,price_discrepancy,Dyed- Ultra Low Sulfur with 99% Renewable Diesel (Non-Bio) - National,3.735,3.514504,-0.220496,535.7,-118.11970720000001,,,2025-11-25T04:48:04.206Z,OE00038894
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.8835,0.6247,40,24.988,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.88447,0.62567,10.3,6.444401,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.88384,0.62504,36.5,22.81396,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.91965,0.66085,185.2,122.38942,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.91948,0.66068,97,64.08596,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.88353,0.62473,68.6,42.856477999999996,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.88328,0.62448,34.1,21.294768,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.91972,0.66092,35.5,23.46266,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.88351,0.62471,123.1,76.90180099999999,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.88363,0.62483,89.8,56.109733999999996,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.91961,0.66081,35.7,23.590917,,,,
+PO48446,2025-11-25T00:36:36.533Z,Please correct invoice.  Price per gallons should not fluctuate.  Labor cost was not included in RFP.,OE00038484,CFS-4434224,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2588,3.8835,0.6247,60,37.482,,,,
+PO48440,2025-11-24T22:25:09.767Z,Minimum Gallons was based off of Diesel vs. Gas. Please issue C/R to correct. Missing Delivery Ticket.,OE00038450,27191458,Carrix,SSAT - Long Beach - Pier A - 700 Pier A Plaza,dispute_active,,disputed,price_discrepancy,Minimum Gallon Delivery Fee,270.92,218.19,-52.73,1,-52.73,,,,
+PO48425,2025-11-24T21:19:54.300Z,"Please verify pricing.  Unit price should be the same for each asset.  Expected rate from Seattle OPIS plus .046 diff from bid should be 2.5352 per gallon. ",OE00038172,CFS-4432414,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.5352,705.33,702.7948,1,702.7948,,,,
+PO48415,2025-11-24T19:42:08.110Z,"Dyed diesel should be priced off of Seattle.  Incorrect price billed.  Also, delivery ticket was not provided. ",OE00038343,25-518263,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_active,,detected,price_discrepancy,Dyed- Ultra Low Sulfur with 99% Renewable Diesel (Non-Bio) - National,3.2923,3.292301,0.000001,1927.6,0.0019275999999999998,,,2025-11-24T21:01:12.711Z,OE00038877
+PO48415,2025-11-24T19:42:08.110Z,"Dyed diesel should be priced off of Seattle.  Incorrect price billed.  Also, delivery ticket was not provided. ",OE00038343,25-518263,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.2574,3.300303,0.042903,627.9,26.938793699999998,,,2025-11-24T21:01:12.711Z,OE00038877
+PO48407,2025-11-24T17:18:53.411Z,"Clear Diesel-Gross Contract Average Unbranded For Tampa: $2.4321
+Tropic Margin: $.25
+Total Price Per Contract: $2.6821
+Vendor Billed: $2.829197
+
+Difference: $.147097",OE00038814,IN-978027-25,"Yoder's Eggs, Inc.",Sutter's Quality Foods/  Sarasota FL,dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.6821,2.829197,0.147097,470.6,69.2238482,,,,
+PO48398,2025-11-24T15:28:28.521Z,"Expected Delivery Fee Rate was $50 vs $200. Please issue Credit Rebill once correction is made. ",OE00037990,27177357,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Delivery Fee,50,200,150,1,150,,,,
+PO48396,2025-11-24T14:19:19.132Z,Please provide Delivery Ticket. Pricing should have been $2.5052 vs. $2.524 that was billed. Please update and issue Credit Rebill,OE00037992,27168644,Carrix,PRS - Morrisville - 98 Cabot Blvd E,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.5052,2.524,0.0188,1607,30.2116,,,,
+PO48396,2025-11-24T14:19:19.132Z,Please provide Delivery Ticket. Pricing should have been $2.5052 vs. $2.524 that was billed. Please update and issue Credit Rebill,OE00037992,27168644,Carrix,PRS - Morrisville - 98 Cabot Blvd E,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.5052,0.2757,-2.2295,1607,-3582.8064999999997,,,,
+PO47841,2025-11-24T12:58:09.846Z,"Dyed Diesel-Gross Contract Average For Phoenix: $2.7078
+Dill Margin: $.48
+Total Price Per Contract: $3.1878
+Vendor Billed: $3.2614
+
+Difference: $.0736",OE00038403,11769,"Quality Technology Services, LLC (QTS)",PHX3-DC14,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1878,3.2614,0.0736,4866.6,358.18176,,,2025-11-24T17:01:27.816Z,OE00038843
+PO47841,2025-11-24T12:58:09.846Z,"Dyed Diesel-Gross Contract Average For Phoenix: $2.7078
+Dill Margin: $.48
+Total Price Per Contract: $3.1878
+Vendor Billed: $3.2614
+
+Difference: $.0736",OE00038403,11769,"Quality Technology Services, LLC (QTS)",PHX3-DC14,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1878,3.2614,0.0736,1088.3,80.09888,,,2025-11-24T17:01:27.816Z,OE00038843
+PO47556,2025-11-24T11:51:37.264Z,"Dyed Bio Diesel-Gross Contract Average For Portland: $2.6148
+Ceco Margin: $.23
+Total Price Per Contract: $2.8448
+Vendor Billed: $4.3879
+
+Difference: $1.5431",OE00038135,IN-1226239,"Quality Technology Services, LLC (QTS)",HIL2-DC2,dispute_active,,disputed,price_discrepancy,(5% BioDsl) - Red Dye Diesel #2 - ULS,2.8448,4.3879,1.5431,13.3,20.52323,,,,
+PO47555,2025-11-24T11:45:50.997Z,"Dyed Bio Diesel-Gross Contract Average Unbranded For Portland: $2.4431
+Ceco Margin: $.23
+Total Price Per Contract: $2.6731
+Vendor Billed: $4.3888
+
+Difference: $1.7157",OE00038136,IN-1226238,"Quality Technology Services, LLC (QTS)",HIL2-DC5,dispute_active,,disputed,price_discrepancy,(5% BioDsl) - Red Dye Diesel #2 - ULS,2.6731,4.3888,1.7157,17.9,30.711029999999997,,,,
+PO47557,2025-11-24T11:41:57.461Z,"Dyed Bio Diesel: Gross Contract Average Unbranded For Portland: $2.4431
+Ceco Margin: $.23
+Total Price Per Contract: $2.6731
+Vendor Billed: $4.3892
+
+Difference: $1.7161",OE00038134,IN-1226240,"Quality Technology Services, LLC (QTS)",HIL2-DC3,dispute_active,,disputed,price_discrepancy,(5% BioDsl) - Red Dye Diesel #2 - ULS,2.6731,4.3892,1.7161,25,42.902499999999996,,,,
+PO48381,2025-11-24T02:13:04.563Z,Price should be the same for every line item.  Please verify if pricing was set up according to RFP.  Labor fee was not part of RFP.  Please provide a delivery ticket.,OE00037849,CFS-4432299,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7116,3.94282,1.23122,34.1,41.984602,,,,
+PO48381,2025-11-24T02:13:04.563Z,Price should be the same for every line item.  Please verify if pricing was set up according to RFP.  Labor fee was not part of RFP.  Please provide a delivery ticket.,OE00037849,CFS-4432299,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7116,3.94328,1.23168,71.4,87.94195200000001,,,,
+PO48381,2025-11-24T02:13:04.563Z,Price should be the same for every line item.  Please verify if pricing was set up according to RFP.  Labor fee was not part of RFP.  Please provide a delivery ticket.,OE00037849,CFS-4432299,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7116,3.94371,1.23211,16.7,20.576237,,,,
+PO48381,2025-11-24T02:13:04.563Z,Price should be the same for every line item.  Please verify if pricing was set up according to RFP.  Labor fee was not part of RFP.  Please provide a delivery ticket.,OE00037849,CFS-4432299,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7116,3.94331,1.23171,68.8,84.741648,,,,
+PO48376,2025-11-24T01:31:31.337Z,"Per Carrix invoice guidelines please separate invoices by product and date. This invoice is rejected. ",OE00037975,CFS-4432379,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7542,40,37.2458,1,37.2458,,,,
+PO48376,2025-11-24T01:31:31.337Z,"Per Carrix invoice guidelines please separate invoices by product and date. This invoice is rejected. ",OE00037975,CFS-4432379,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7542,3.99287,1.23867,54.7,67.755249,,,,
+PO48376,2025-11-24T01:31:31.337Z,"Per Carrix invoice guidelines please separate invoices by product and date. This invoice is rejected. ",OE00037975,CFS-4432379,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7542,3.992,1.2378,15,18.567,,,,
+PO48376,2025-11-24T01:31:31.337Z,"Per Carrix invoice guidelines please separate invoices by product and date. This invoice is rejected. ",OE00037975,CFS-4432379,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7542,3.9927,1.2385,78.1,96.72684999999998,,,,
+PO48376,2025-11-24T01:31:31.337Z,"Per Carrix invoice guidelines please separate invoices by product and date. This invoice is rejected. ",OE00037975,CFS-4432379,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7542,3.99319,1.23899,38.2,47.329418000000004,,,,
+PO48368,2025-11-23T21:52:36.491Z,"Per Carrix guidelines all invoices should be billed by product by date.  Please credit and rebill with multiple invoices.  Labor charges were not part of the rfp. ",OE00037527,CFS-4430842,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_active,,disputed,unexpected_line_item,LABOR Labor,0,180,180,1,180,,,,
+PO48368,2025-11-23T21:52:36.491Z,"Per Carrix guidelines all invoices should be billed by product by date.  Please credit and rebill with multiple invoices.  Labor charges were not part of the rfp. ",OE00037527,CFS-4430842,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_active,,disputed,unexpected_line_item,MFDYED - DSL #2 Dyed,0,6692.64,6692.64,1,6692.64,,,,
+PO48368,2025-11-23T21:52:36.491Z,"Per Carrix guidelines all invoices should be billed by product by date.  Please credit and rebill with multiple invoices.  Labor charges were not part of the rfp. ",OE00037527,CFS-4430842,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_active,,detected,missing_line_item,Red Dye Diesel #2 - ULS,5165.180399999999,0,-5165.180399999999,1919,-9911981.187599998,,,,
+PO48366,2025-11-23T21:34:08.396Z,"Please review invoice.  Per schedule A total diff should be in freight, which should be .35.  No diff in product.  Remove fuel surcharge and add $50 delivery fee. ",OE00037828,27151802,Carrix,SSA Gulf - Panama City - 1836 Ave A,dispute_active,,disputed,unexpected_line_item,Surcharge,0,18.58,18.58,1,18.58,,,,
+PO48366,2025-11-23T21:34:08.396Z,"Please review invoice.  Per schedule A total diff should be in freight, which should be .35.  No diff in product.  Remove fuel surcharge and add $50 delivery fee. ",OE00037828,27151802,Carrix,SSA Gulf - Panama City - 1836 Ave A,dispute_active,,detected,missing_line_item,Delivery Fee,50,0,-50,1,-50,,,,
+PO48366,2025-11-23T21:34:08.396Z,"Please review invoice.  Per schedule A total diff should be in freight, which should be .35.  No diff in product.  Remove fuel surcharge and add $50 delivery fee. ",OE00037828,27151802,Carrix,SSA Gulf - Panama City - 1836 Ave A,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.4887,2.6426,0.1539,660,101.57400000000001,,,,
+PO48366,2025-11-23T21:34:08.396Z,"Please review invoice.  Per schedule A total diff should be in freight, which should be .35.  No diff in product.  Remove fuel surcharge and add $50 delivery fee. ",OE00037828,27151802,Carrix,SSA Gulf - Panama City - 1836 Ave A,dispute_active,,disputed,price_discrepancy,Freight Charge Diesel,0.35,0.3595,0.0095,660,6.27,,,,
+PO48364,2025-11-23T21:03:54.933Z,"Price should be 3.108.  Please correct. ",OE00038242,10118000,Carrix,"Portside Cargo Services II, LLC - 4884 Old Louisville Rd",dispute_active,,disputed,price_discrepancy,(0%-5% BioDsl) - Red Dye Diesel #2 - ULS,3.108,3.13,0.022,752,16.544,,,,
+PO48363,2025-11-23T20:27:05.769Z,"Price per gallon should be 3.09.  Please correct and resubmit. Also please make sure to send delivery tickets with invoices. ",OE00038129,1011799,Carrix,"Portside Cargo Services II, LLC - 4884 Old Louisville Rd",dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,3.09,3.1,0.01,822,8.22,,,,
+PO48336,2025-11-23T20:08:29.295Z,"Please resolve discrepancy.  Schedule A indicates .38 total diff that should be in the freight rate fee.  Per Mansfield no diff should be in the product.  Also, missing $50 delivery fee. ",OE00037831,27142378,Carrix,LSI - Columbus - 1864 Port Access Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.4409,2.5026,0.0617,889,54.851299999999995,,,,
+PO48360,2025-11-23T17:36:26.507Z,Please verify pricing feed and set up.  Is the OPIS city El Paso or Albuquerque.  Also freight rate is incorrect.  Schedule A shows .2657 freight rate plus a $50 fee.  Please verify if freight rate should be is in product differential or freight line item.,OE00038103,27128995,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,detected,missing_line_item,Delivery Fee,50,0,-50,1,-50,,,,
+PO48360,2025-11-23T17:36:26.507Z,Please verify pricing feed and set up.  Is the OPIS city El Paso or Albuquerque.  Also freight rate is incorrect.  Schedule A shows .2657 freight rate plus a $50 fee.  Please verify if freight rate should be is in product differential or freight line item.,OE00038103,27128995,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,87 Unleaded (w/10% Eth),1.9456,2.6438,0.6982,230,160.586,,,,
+PO48360,2025-11-23T17:36:26.507Z,Please verify pricing feed and set up.  Is the OPIS city El Paso or Albuquerque.  Also freight rate is incorrect.  Schedule A shows .2657 freight rate plus a $50 fee.  Please verify if freight rate should be is in product differential or freight line item.,OE00038103,27128995,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_active,,disputed,price_discrepancy,Freight Charge Gas,0.2657,0.217391,-0.048309,230,-11.11107,,,,
+PO48358,2025-11-23T16:53:58.223Z,"Invoice CFS-4413024 is invalid.  Please credit and rebill.  Invoices should be billed by product and by date.  Not by week or month.  Also, labor charges were not on the RFP.",OE00037015,CFS-4413024,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_active,,disputed,unexpected_line_item,LABOR Labor,0,260,260,4,1040,,,,
+PO48358,2025-11-23T16:53:58.223Z,"Invoice CFS-4413024 is invalid.  Please credit and rebill.  Invoices should be billed by product and by date.  Not by week or month.  Also, labor charges were not on the RFP.",OE00037015,CFS-4413024,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_active,,disputed,unexpected_line_item,MFDYED - DSL #2 Dyed,0,11809.41,11809.41,3283.7,38778559.617,,,,
+PO48358,2025-11-23T16:53:58.223Z,"Invoice CFS-4413024 is invalid.  Please credit and rebill.  Invoices should be billed by product and by date.  Not by week or month.  Also, labor charges were not on the RFP.",OE00037015,CFS-4413024,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_active,,detected,missing_line_item,Red Dye Diesel #2 - ULS,9402.7922,0,-9402.7922,3287,-30906977.9614,,,,
+PO48005,2025-11-21T17:43:30.856Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.5444
+$ Refuel Margin: $.275
+Total Price Per Contract: $2.8194
+Vendor Billed: $2.896
+
+Difference: $.0766",OE00038582,1072161,"Quality Technology Services, LLC (QTS)",DFW1-DC6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.896,2.9032,0.0072,3737,26.906399999999998,,,,
+PO47793,2025-11-20T13:17:28.622Z,"Dyed Diesel-Gross Contract Average For North Augusta: $2.5533
+Colonial Margin: $.45
+Total Price Per Contract: $2.9033
+Vendor Billed: $2.9425
+
+Difference: $.0392",OE00038567,IN-1670748,"Lazer Spot, Inc.","Kimberly Clark - Site 100135 - Beech Island, SC",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.9033,2.9425,0.0392,1800.7,70.58744,,,,
+PO47823,2025-11-20T12:16:33.962Z,"Dyed Diesel-Gross Contract Average Unbranded Fpr Pensacola: $2.8487
+Davison Margin: $.75
+Total Price Per Contract: $3.5987
+Vendor Billed: $3.352
+
+Difference: $-.2467",OE00038434,INV-941043,"US Framing International, LLC","ABACO  - Orange Beach, AL, PO# EQ25-064-ABC-9/17",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.5987,3.352,-0.2467,400,-98.68,,,2025-11-20T21:30:59.708Z,OE00038707
+PO48016,2025-11-17T19:47:44.389Z,"Expected Price was $2.9592 vs. Billed Price at $2.9476. Please Credit Rebill to correct discrepancy. ",OE00037438,11484102,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,detected,unexpected_line_item,Regulatory Compliance Charge (Commercial),0,14.99,14.99,1,14.99,,,2025-11-19T13:16:00.040Z,OE00038510
+PO48016,2025-11-17T19:47:44.389Z,"Expected Price was $2.9592 vs. Billed Price at $2.9476. Please Credit Rebill to correct discrepancy. ",OE00037438,11484102,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.9592,2.9476,-0.0116,472,-5.475199999999999,,,2025-11-19T13:16:00.040Z,OE00038510
+PO48010,2025-11-17T17:31:31.144Z,"Expected Rate was $2.7612 vs. Billed Rate of $2.754. Please issue a Credit Rebill to correct Pricing Error. ",OE00037396,RO274137,Carrix,PRS - Roselake - 3900 Roselake Rd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel (Winter) - ULS,2.7612,2.754,-0.0072,987.9,-7.11288,,,2025-11-17T23:02:09.129Z,OE00038428
+PO47683,2025-11-17T16:16:49.801Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.4867
+4 Refuel Margin: $.0275
+Total Price Per Contract: $2.7617
+Vendor Billed: $2.8374
+
+Difference: $.0757",OE00037793,1071688,"Quality Technology Services, LLC (QTS)",DFW1-DC6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),2.7617,2.8446,0.0829,1499.7,124.32513,,,,
+PO47683,2025-11-17T16:16:49.801Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.4867
+4 Refuel Margin: $.0275
+Total Price Per Contract: $2.7617
+Vendor Billed: $2.8374
+
+Difference: $.0757",OE00037793,1071688,"Quality Technology Services, LLC (QTS)",DFW1-DC6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),2.7617,2.8446,0.0829,986,81.7394,,,,
+PO47683,2025-11-17T16:16:49.801Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.4867
+4 Refuel Margin: $.0275
+Total Price Per Contract: $2.7617
+Vendor Billed: $2.8374
+
+Difference: $.0757",OE00037793,1071688,"Quality Technology Services, LLC (QTS)",DFW1-DC6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),2.7617,2.8446,0.0829,1400,116.06,,,,
+PO47683,2025-11-17T16:16:49.801Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.4867
+4 Refuel Margin: $.0275
+Total Price Per Contract: $2.7617
+Vendor Billed: $2.8374
+
+Difference: $.0757",OE00037793,1071688,"Quality Technology Services, LLC (QTS)",DFW1-DC6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),2.7617,2.8446,0.0829,1900,157.51,,,,
+PO47683,2025-11-17T16:16:49.801Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.4867
+4 Refuel Margin: $.0275
+Total Price Per Contract: $2.7617
+Vendor Billed: $2.8374
+
+Difference: $.0757",OE00037793,1071688,"Quality Technology Services, LLC (QTS)",DFW1-DC6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),2.7617,2.8446,0.0829,892.7,74.00483,,,,
+PO47683,2025-11-17T16:16:49.801Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.4867
+4 Refuel Margin: $.0275
+Total Price Per Contract: $2.7617
+Vendor Billed: $2.8374
+
+Difference: $.0757",OE00037793,1071688,"Quality Technology Services, LLC (QTS)",DFW1-DC6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),2.7737,2.8446,0.0709,1994,141.37460000000002,,,,
+PO47683,2025-11-17T16:16:49.801Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.4867
+4 Refuel Margin: $.0275
+Total Price Per Contract: $2.7617
+Vendor Billed: $2.8374
+
+Difference: $.0757",OE00037793,1071688,"Quality Technology Services, LLC (QTS)",DFW1-DC6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),2.7617,2.8446,0.0829,1400,116.06,,,,
+PO47683,2025-11-17T16:16:49.801Z,"Dyed Diesel-Gross Contract Average Unbranded For Dallas: $2.4867
+4 Refuel Margin: $.0275
+Total Price Per Contract: $2.7617
+Vendor Billed: $2.8374
+
+Difference: $.0757",OE00037793,1071688,"Quality Technology Services, LLC (QTS)",DFW1-DC6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),2.7617,2.8446,0.0829,1896.7,157.23643,,,,
+PO48004,2025-11-17T16:07:23.114Z,"Expected Pricing was $2.949 vs. Billed Pricing of $3.0673. Please issue a Credit Rebill to correct pricing error. ",OE00038116,11494695,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.949,3.0673,0.1183,500,59.15,,,,
+PO48003,2025-11-17T15:58:39.640Z,"Expected Pricing was $2.949 vs. $3.0673 Billed. Please issue a Credit Rebill to correct pricing error. ",OE00038118,11501090,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.949,3.0673,0.1183,654.8,77.46284,,,,
+PO47654,2025-11-17T15:31:36.961Z,"Clear Diesel-Gross Contract Average Unbranded For Austin: $2.4519
+4 Refuel Margin: $.50
+Total Price Per Contract: $2.9519
+Vendor Billed: $3.0338
+
+Difference: $.0819",OE00037788,468144,"Digital Realty Trust, LP",AUS11,dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS (Texas),2.9519,3.484,0.5321,666,354.3786,,,,
+PO47654,2025-11-17T15:31:36.961Z,"Clear Diesel-Gross Contract Average Unbranded For Austin: $2.4519
+4 Refuel Margin: $.50
+Total Price Per Contract: $2.9519
+Vendor Billed: $3.0338
+
+Difference: $.0819",OE00037788,468144,"Digital Realty Trust, LP",AUS11,dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS (Texas),2.9519,3.484,0.5321,1145.5,609.5205500000001,,,,
+PO47758,2025-11-14T14:37:16.816Z,"Dyed Diesel-Gross Contract average: $2.732
+Santmyer Margin: $.50
+Total Price Per Contract: $3.232
+Vendor Billed: $3.189609
+
+Difference: $-.042391",OE00037464,IN-160235,"Quality Technology Services, LLC (QTS)",NAL2-DC1,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.232,3.189609,-0.042391,5005.4,-212.18391139999997,,,,
+PO47489,2025-11-14T13:28:54.917Z,"Dyed Diesel-Gross Contract Average Unbranded For Boston: $2.6574
+Dennis K Burke Margin: $.50
+Total price Per Contract: $3.1574
+Vendor Billed: $2.7595
+
+Difference: $-.3979",OE00037517,2148194,"Digital Realty Trust, LP",BOS14,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1574,2.7595,-0.3979,3001,-1194.0979,,,,
+PO47731,2025-11-14T13:23:41.681Z,"Dyed Diesel-Gross Contract Average Unbranded For Boston: $2.6574
+Dennis K Burke Margin: $.50
+Total price Per Contract: $3.1574
+Vendor Billed: $2.7595
+
+Difference: $-.3979",OE00037519,2148193,"Digital Realty Trust, LP",BOS14,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1574,2.7595,-0.3979,3601,-1432.8379,,,,
+PO47561,2025-11-13T18:45:56.645Z,"Dyed Diesel-Gross Contract Average For Tampa: $2.5062
+Lewis Margin: $.80
+Total price Per Contract: $3.2315
+Vendor Billed: $3.2315
+
+Difference: $-.0747",OE00037495,1005690,"Beard Equipment Company, INC.  "," Ocala, FL",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.3062,3.2315,-0.0747,400,-29.880000000000003,,,2025-11-14T07:19:57.233Z,OE00038009
+PO47560,2025-11-13T17:52:48.096Z,"Dyed Diesel-Gross Contract Average Unbranded For Stockton: $3.1343
+SC Fuels Margin: $.90
+Total Price Per Contract: $4.0343
+Vendor Billed: $4.09
+
+Difference: $.0557",OE00037385,IN-0000238147,Lowe's Companies Inc,"LOWES - Stockton, CA - DC 1430 ",dispute_active,,disputed,price_discrepancy,Red Dye Diesel - Carb - ULS (CA),4.0343,4.09,0.0557,170.2,9.480139999999999,,,,
+PO47832,2025-11-13T16:03:34.791Z,"Dyed Diesel-Gross Contract average For Columbus: $2.7372
+Santmyer margin: $.13
+Total price per contract: $2.8672
+Vendor Billed: $2.894902
+
+Difference: $.027702",OE00037798,IN-160766,"Quality Technology Services, LLC (QTS)",NAL1-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8672,2.894902,0.027702,2500.8,69.27716160000001,,,,
+PO47780,2025-11-13T15:18:55.896Z,"Dyed Diesel-Gross Contract Average For Columbus: $2.7372
+Santmyer Margin: $.13
+Total Price Per Contract: $2.8672
+Vendor Billed: $2.894899
+
+Difference: $.027699",OE00037797,IN-160768,"Quality Technology Services, LLC (QTS)",NAL1-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8949,2.894899,-0.000001,4999.4,-0.004999399999999999,,,,
+PO47786,2025-11-12T20:50:17.823Z,Expected Rate was $2.396 vs. Billed at $2.2393. Please issue Credit Rebill to correct.,OE00037506,11495685,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,87 Unleaded - Reform (w/10% Eth),2.396,2.2393,-0.1567,187.1,-29.31857,,,,
+PO47785,2025-11-12T20:48:30.776Z,Expected Rate was $2.396 vs. Billed at $2.3058. Please issue Credit Rebill,OE00037507,11495681,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,87 Unleaded - Reform (w/10% Eth),2.396,2.3058,-0.0902,126.7,-11.42834,,,,
+PO47679,2025-11-12T14:55:39.786Z,"Dyed Diesel-Gross Contract average For Fairfax: $2.4624
+Taylor Margin: $.30
+Total price Per Contract: $2.7624
+Vendor Billed: $2.8223
+
+Difference: $.0599",OE00037146,B385739-IN,Iron Mountain Data Centers,Iron Mountain - VA 6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7624,2.8223,0.0599,5309,318.0091,,,,
+PO47757,2025-11-12T12:15:38.272Z,"Dyed Diesel-Gross Contract Average For Columbus: $2.732
+Santmyer Margin: $.13
+Total Price Per Contract: $2.862
+Vendor Billed: $2.8899
+
+Difference: $.0279",OE00037678,IN-160566,"Quality Technology Services, LLC (QTS)",NAL1-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.862,2.8899,0.0279,7500,209.25,,,,
+PO47689,2025-11-12T12:09:13.167Z,"Dyed Diesel-Gross Contract Average For Columbus: $2.6822
+Santmyer Margin: $.13
+Total Price Per Contract: $2.8122
+Vendor Billed: $2.8399
+
+Difference: $.0277",OE00037384,IN-160034,"Quality Technology Services, LLC (QTS)",NAL1-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8122,2.8399,0.0277,7502,207.8054,,,,
+PO47754,2025-11-12T12:01:47.736Z,"Dyed Diesel-Gross Contract Average For Columbus: $2.732
+Santmyer Margin: $.50
+Total Price Per Contract: $3.232
+Vendor Billed: $3.189611
+
+Difference: $-.042389",OE00037470,IN-160236,"Quality Technology Services, LLC (QTS)",NAL2-DC1,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.232,3.189611,-0.042389,2505.5,-106.2056395,,,,
+PO47695,2025-11-12T11:39:15.662Z,"Dyed Diesel-Gross Contract Average For Columbus: $2.6822
+Santmyer Margin: $.13
+Total Price Per Contract: $2.8122
+Vendor Billed: $2.8399
+
+Difference: $.0277",OE00037383,IN-160035,"Quality Technology Services, LLC (QTS)",NAL1-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8122,2.8399,0.0277,7499,207.7223,,,,
+PO47756,2025-11-12T11:34:07.035Z,"Dyed Diesel-Gross Contract Average For Columbus: $2.732
+Santmyer Margin: $.13
+Total Price Per Contract: $2.862
+Vendor Billed: $2.889
+
+Difference: $.0279",OE00037623,IN-160514,"Quality Technology Services, LLC (QTS)",NAL1-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.862,2.8899,0.0279,5005.1,139.64229,,,,
+PO47319,2025-11-11T18:46:45.647Z,"Dyed Diesel-Gross Contract Average Unbranded For Tampa: $2.5033
+Palmdale Margin: $1.10
+Total Price Per Contract: $3.6033
+Vendor Billed: $3.0078
+
+Difference: $-.5955",OE00037119,SI-131571,"Home Depot U.S.A., Inc.","Home Depot - Largo, FL",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.6033,3.0078,-0.5955,517.9,-308.40945,,,,
+PO47737,2025-11-11T15:23:44.367Z,"Pricing should have been 2.5093 vs 2.3296. Freight Rate should have been 0.2 vs. 0.5685 for $109.52 in Freight Total. Please issue a Credit Rebill to correct. ",OE00037386,27147901,Carrix,SSA Pacific - San Diego - 1090 Water St,dispute_active,,disputed,unexpected_line_item,Gasoline (Freight),0,311.31,311.31,547.6,170473.356,,,,
+PO47737,2025-11-11T15:23:44.367Z,"Pricing should have been 2.5093 vs 2.3296. Freight Rate should have been 0.2 vs. 0.5685 for $109.52 in Freight Total. Please issue a Credit Rebill to correct. ",OE00037386,27147901,Carrix,SSA Pacific - San Diego - 1090 Water St,dispute_active,,detected,missing_line_item,Freight Charge Gas,109.52000000000001,0,-109.52000000000001,547.6,-59973.15200000001,,,,
+PO47737,2025-11-11T15:23:44.367Z,"Pricing should have been 2.5093 vs 2.3296. Freight Rate should have been 0.2 vs. 0.5685 for $109.52 in Freight Total. Please issue a Credit Rebill to correct. ",OE00037386,27147901,Carrix,SSA Pacific - San Diego - 1090 Water St,dispute_active,,disputed,price_discrepancy,Carb Reform 87 Oct w/10% Eth,2.5093,2.3296,-0.1797,547.6,-98.40372,,,,
+PO47704,2025-11-11T13:26:43.971Z,"Dyed Diesel-Gross Contract Average For Meridian: $2.462
+Rackley Margin: $.30
+Total Price Per Contract: $2.762
+Vendor Billed: $2.8912
+
+Difference: $.1292",OE00037544,140244,D7 Pneumatics,"D7 Pneumatics - Ackerman, MS,",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.762,2.8912,0.1292,2000,258.40000000000003,,,,
+PO47723,2025-11-11T11:41:55.216Z,"Dyed Diesel-Gross Contract Average For Columbus: $2.7603
+Santmyer Margin: $.13
+Total Price Per Contract: $2.8903
+Vendor Billed: $2.9179
+
+Difference: $.0276",OE00037494,IN-160329,"Quality Technology Services, LLC (QTS)",NAL1-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8903,2.9179,0.0276,7500,207.0,,,,
+PO47725,2025-11-11T11:38:47.516Z,"Dyed Diesel-Gross Contract Average For Columbus: $2.7603
+Santmyer Margin: $.13
+Total Price Per Contract: $2.8903
+Vendor Billed: $2.9179
+
+Difference: $.0276",OE00037493,IN-160330,"Quality Technology Services, LLC (QTS)",NAL1-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8903,2.9179,0.0276,7500,207.0,,,,
+PO47264,2025-11-10T17:39:55.500Z,"Premium RFG-Gross Contract Average Unbranded For Los Angeles: $3.5336
+SC Fuels Margin: $.53
+Total Price Per Contract: $4.0636
+Vendor Billed: $4.775408
+
+Difference: $.711808",OE00036985,IN-0000235220,Clay Lacy Aviation,"Van Nuys, CA",dispute_active,,disputed,price_discrepancy,91 Unleaded - Carb Reform (w/10% Eth),4.0636,4.775408,0.711808,189.9,135.1723392,,,,
+PO47682,2025-11-10T17:11:40.660Z,"Dyed Diesel-Gross Contract Average For Fairfax: $2.4624
+Taylor Oil Margin: $.30
+Total Price Per Contract: $2.7624
+Vendor Billed: $2.8223
+
+Difference: $.0599",OE00037144,B385738-IN,Iron Mountain Data Centers,Iron Mountain - VA 6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7624,2.8223,0.0599,5311.8,318.17682,,,,
+PO47681,2025-11-10T17:04:13.831Z,"Dyed Diesel-Gross Contract Average For Fairfax: $2.4624
+Taylor Margin: $.30
+Total price Per Contract: $2.7624
+Vendor Billed: $2.8223
+
+Difference: $.0599",OE00037147,B385740-IN,Iron Mountain Data Centers,Iron Mountain - VA 6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7624,2.8223,0.0599,5300.4,317.49396,,,,
+PO45633,2025-11-10T13:20:25.655Z,"Clear Diesel-Gross Contract Average For New York: $2.5651
+Summa Margin: $.40
+Total Price Per Contract: $2.9651
+Vendor Billed: $2.995
+
+Difference: $.0299",OE00037017,137820,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.9651,2.995,0.0299,369.5,11.04805,,,,
+PO47501,2025-11-10T12:47:21.085Z,"Dyed Diesel-Gross Contract Average Unbranded For Seattle: $2.616
+Christensen Margin: $1.50
+Total Price Per Contract: $4.116
+Vendor Billed: $4.8954
+
+Difference: $.7794",OE00037374,0780726-IN,US Foods Chef' Store,"CHEF'STORE Everett, WA",dispute_active,,detected,unexpected_line_item,Rounding Adjustment Line,0,0.01,0.01,1,0.01,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,unexpected_line_item,WDCL - ULSD On-Road,0,1482.7,1482.7,493,730971.1,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,47.217749999999995,0,-47.217749999999995,15.7,-741.3186749999999,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,15.0375,0,-15.0375,5,-75.1875,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,20.75175,0,-20.75175,6.9,-143.18707500000002,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,31.278,0,-31.278,10.4,-325.2912,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,113.68349999999998,0,-113.68349999999998,37.8,-4297.236299999999,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,20.75175,0,-20.75175,6.9,-143.18707500000002,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,15.338249999999999,0,-15.338249999999999,5.1,-78.22507499999999,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.34575,0,-18.34575,6.1,-111.90907499999999,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,3.0075,0,-3.0075,1,-3.0075,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,23.458499999999997,0,-23.458499999999997,7.8,-182.97629999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,130.82625,0,-130.82625,43.5,-5690.9418749999995,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,186.76575,0,-186.76575,62.1,-11598.153075,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,162.10424999999998,0,-162.10424999999998,53.9,-8737.419074999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,133.533,0,-133.533,44.4,-5928.865199999999,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,21.954749999999997,0,-21.954749999999997,7.3,-160.26967499999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,19.248,0,-19.248,6.4,-123.18720000000002,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,31.278,0,-31.278,10.4,-325.2912,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,16.541249999999998,0,-16.541249999999998,5.5,-90.97687499999999,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,6.6165,0,-6.6165,2.2,-14.556300000000002,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,8.421,0,-8.421,2.8,-23.578799999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,0.9022499999999999,0,-0.9022499999999999,0.3,-0.27067499999999994,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.34575,0,-18.34575,6.1,-111.90907499999999,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,8.72175,0,-8.72175,2.9,-25.293074999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,13.233,0,-13.233,4.4,-58.22520000000001,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,39.39825,0,-39.39825,13.1,-516.117075,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,16.2405,0,-16.2405,5.4,-87.69870000000002,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,16.842,0,-16.842,5.6,-94.31519999999999,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO45634,2025-11-10T12:26:18.525Z,"Clear Diesel-Gross Contract Average For New York: $2.5776
+Summa Margin: $.40
+Total Price Per Contract: $2.9776
+Vendor Billed: $3.0075
+
+Difference: $.0299",OE00037127,138026,D'Artagnan LLC (Fortune Fish),"Dartagnan - Union,NJ",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,18.044999999999998,0,-18.044999999999998,6,-108.26999999999998,,,,
+PO43645,2025-11-10T12:22:35.535Z,"Dyed Diesel-Gross Contract Average Unbranded For Scranton: $2.7305
+Button Oil Margin: $.45
+Total Price Per Contract: $3.1805
+Vendor Billed: $3.17
+
+Difference: $-.0105",OE00036866,1217027,Lowe's Companies Inc,"LOWES - Nanticoke, PA - RDC 3122 ",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1805,3.17,-0.0105,121.9,-1.2799500000000001,,,,
+PO46952,2025-11-07T19:03:01.058Z,"Expected Pricing was $2.7058 vs. 2.6497 Billed. Please issue Credit Rebill to correct. ",OE00035271,25-495729,Carrix,SSAT - Seattle - T5 CEM - 3443 W Marginal Way SW,dispute_active,,disputed,price_discrepancy,87 Unleaded (w/10% Eth),2.7058,2.6497,-0.0561,3998,-224.28779999999998,,,,
+PO42886,2025-11-07T13:52:06.446Z,"Clear Diesel-Gross Contract Average Unbranded For Tampa: $2.5035
+Tropic Margin: $.25
+Total Price Per Contract: $2.7535
+Vendor Billed: $2.7846
+
+Difference: $.0311",OE00037300,IN-955537-25,"Yoder's Eggs, Inc.",Sutter's Quality Foods/  Sarasota FL,dispute_active,,detected,missing_line_item,miscellaneous charge,30,0,-30,1,-30,,,,
+PO47642,2025-11-07T13:46:47.925Z,"Expected Price $2.3775 vs. $2.3642 Billed. Please issue Credit Rebill. ",OE00037063,11470917,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,87 Unleaded - Reform (w/10% Eth),2.3775,2.3642,-0.0133,76,-1.0108,,,2025-11-10T18:51:03.654Z,OE00037439
+PO47542,2025-11-04T19:24:01.689Z,"Pricing should have been $2.6468 vs. $2.6385, please issue C/R to correct.",OE00036131,11458036,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.6468,2.6385,-0.0083,829.1,-6.881530000000001,,,,
+PO47541,2025-11-04T19:15:29.637Z,"Expected Price was $2.8688 vs. 2.8607, please issue a Credit Rebill to correct",OE00036134,11464728,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8688,2.8607,-0.0081,675.4,-5.470739999999999,,,,
+PO47539,2025-11-04T18:46:58.206Z,"Expected Pricing was $2.8688 (OPIS GCA Philadelphia), Please issue Credit Rebill to correct ",OE00036135,11464727,Carrix - SaaS Fees Account,Carrix - Platform Service Fee Account,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8688,2.8607,-0.0081,380.8,-3.08448,,,,
+PO47538,2025-11-04T18:43:32.894Z,"Expected Pricing was $2.874 (OPIS GCA Philadelphia)+ 0.35, Credit Rebill to correct pricing discrepancy. ",OE00036910,11478803,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.874,2.8659,-0.0081,399.2,-3.23352,,,,
+PO47535,2025-11-04T18:08:06.441Z,"Pricing should have been 2.6339, OPIS GCA (Philadelphia) +.35: Please issue Credit Rebill to correct ",OE00036125,11437538,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.6339,2.6735,0.0396,910,36.036,,,,
+PO47525,2025-11-04T16:29:30.371Z,"Dyed Diesel-Gross Contract Average For Columbus: $2.6626
+Santmyer Margin: $.50
+Total Price Per Contract: $3.1626
+Vendor Billed: $3.19181
+
+Difference: $.02921",OE00036777,IN-159098,"Quality Technology Services, LLC (QTS)",NAL2-DC1,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1626,3.19181,0.02921,2500.5,73.039605,,,,
+PO47117,2025-11-03T18:27:35.577Z,"Pricing should have been $3.4486. ",OE00035573,25-498906,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_active,,disputed,price_discrepancy,Dyed- Ultra Low Sulfur with 99% Renewable Diesel (Non-Bio) - National,3.4486,3.4566,0.008,2547.7,20.3816,,,,
+PO46916,2025-10-29T14:59:40.604Z,"Dyed Diesel-Gross Contract Average Unbranded For Richmond: 2.1575
+ESI Margin: $.57
+Total Price Per Contract: $2.7275
+Vendor Billed: $2.69
+
+Difference: $-.0375",OE00035995,225598,"Quality Technology Services, LLC (QTS)",RIC1-DC4,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7275,2.69,-0.0375,2421.7,-90.81374999999998,,,,
+PO46916,2025-10-29T14:59:40.604Z,"Dyed Diesel-Gross Contract Average Unbranded For Richmond: 2.1575
+ESI Margin: $.57
+Total Price Per Contract: $2.7275
+Vendor Billed: $2.69
+
+Difference: $-.0375",OE00035995,225598,"Quality Technology Services, LLC (QTS)",RIC1-DC4,dispute_active,,detected,price_discrepancy,Winter Additive,0.05,0.050002,0.000002,2421.7,0.0048433999999999994,,,,
+PO47191,2025-10-29T10:45:44.976Z,"Dyed Diesel-Gross Contract Average Unbranded For Jacksonville: $2.4819
+De Fords Margin: $.50
+Total Price Per Contract: $2.9819
+Vendor Billed: $3.10
+
+Difference: $.1181",OE00036019,88412,"Beard Equipment Company, INC.  ","Palatka, FL ",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.9819,3.1,0.1181,315.1,37.21331,,,,
+PO47198,2025-10-29T10:42:34.185Z,"87 Unleaded (w/10% Eth)-Gross Contract Average Unbranded For Columbus: $1.8492
+Fletcher Margin: $.43
+Total Price Per Contract: $2.2792
+Vendor Billed: $2.261
+
+Difference: $-.0182",OE00035786,1313514,RPI Rentals LLC,"Mauk, GA (PO #8864RU)",dispute_active,,disputed,price_discrepancy,87 Unleaded (w/10% Eth),2.2792,2.261,-0.0182,355,-6.461,,,2025-10-29T17:38:01.248Z,OE00036084
+PO47218,2025-10-29T10:37:40.598Z,"Dyed Diesel-Gross Contract Average Unbranded For Phoenix: $2.4012
+Mobile Force Margin: $.32
+Total Price Per Contract: $2.7222
+Vendor Billed: $2.7488
+
+Difference: $.0266",OE00035857,811750,"Quality Technology Services, LLC (QTS)",PHX3-DC13,dispute_active,,detected,unexpected_line_item,Red Diesel Fuel Off Road Diesel Fuel ULSD 15PPM,0,17871.87,17871.87,6501.7,116197537.17899999,,,,
+PO47218,2025-10-29T10:37:40.598Z,"Dyed Diesel-Gross Contract Average Unbranded For Phoenix: $2.4012
+Mobile Force Margin: $.32
+Total Price Per Contract: $2.7222
+Vendor Billed: $2.7488
+
+Difference: $.0266",OE00035857,811750,"Quality Technology Services, LLC (QTS)",PHX3-DC13,dispute_active,,detected,missing_line_item,Red Dye Diesel #2 - ULS,4394.978,0,-4394.978,1610,-7075914.58,,,,
+PO47218,2025-10-29T10:37:40.598Z,"Dyed Diesel-Gross Contract Average Unbranded For Phoenix: $2.4012
+Mobile Force Margin: $.32
+Total Price Per Contract: $2.7222
+Vendor Billed: $2.7488
+
+Difference: $.0266",OE00035857,811750,"Quality Technology Services, LLC (QTS)",PHX3-DC13,dispute_active,,detected,missing_line_item,Red Dye Diesel #2 - ULS,13353.362659999999,0,-13353.362659999999,4891.7,-65320644.12392199,,,,
+PO47219,2025-10-29T10:35:13.360Z,"Dyed Diesel-Gross Contract Average Unbranded For Phoenix: $2.4223
+Mobile Force Margin: $.32
+Total Price Per Contract: $2.7433
+Vendor Billed: $2.7488
+
+Difference: $.0055",OE00035858,811751,"Quality Technology Services, LLC (QTS)",PHX3-DC13,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7298,2.7488,0.019,6483.6,123.1884,,,2025-10-30T19:04:31.610Z,OE00036348
+PO47169,2025-10-28T11:56:17.991Z,"Dyed Diesel-Gross Contract Average Unbranded For Phoenix: $2.4112
+Mobile Force Margin: $.321
+Total Price Per Contract: $2.7322
+Vendor Billed: $2.7447
+
+Difference: $.0125",OE00035678,811340,"Quality Technology Services, LLC (QTS)",PHX3-DC13,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7322,2.7447,0.0125,6483,81.03750000000001,,,2025-10-30T04:52:49.013Z,OE00036188
+PO46806,2025-10-28T11:51:53.491Z,"Dyed Diesel-Gross Contract Average Unbranded For Fairfax: $2.3248
+ESI Margin: $.57
+Total Price Per Contract: $2.8948
+Vendor Billed: $2.86
+
+Difference: $-.0348",OE00035834,225572,"Quality Technology Services, LLC (QTS)",ASH1-DC1,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8948,2.86,-0.0348,3000,-104.39999999999999,,,,
+PO47115,2025-10-27T18:19:42.361Z,"Dyed Diesel-Gross Contract Average Unbranded For Bainbridge: $2.3766
+Eli Roberts Margin: $.40
+Total Price Per Contract: $2.6766
+Vendor Billed: $2.688
+
+Difference: $.0114",OE00035785,501807,"Beard Equipment Company, INC.  ","Tallahassee, FL",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.6766,2.688,0.0114,430,4.902,,,,
+PO44320,2025-10-27T17:34:32.120Z,"Clear Diesel-Gross Contract Average Unbranded For Charlotte: $2.1804
+Nisbet Margin: $.45
+Total price Per Contract: $2.6304
+Vendor Billed: $2.6498
+
+Difference: $.0194",OE00035695,144886,"Lazer Spot, Inc.",Lazer - Site 102623 - EATON,dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.6304,2.6498,0.0194,42.2,0.8186800000000001,,,,
+PO47167,2025-10-27T17:29:59.636Z,"Dyed Diesel-Gross Contract Average For Richmond: $2.195
+Southside Fuel Margin: $.25
+Total price Per Contract: $2.445
+Vendor Billed: $2.485
+
+Difference: $.04",OE00035687,48884,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.445,2.485,0.04,2030.9,81.236,,,,
+PO47166,2025-10-27T17:29:34.075Z,"Dyed Diesel-Gross Contract Average For Richmond: $2.195
+Southside Fuel Margin: $.25
+Total price Per Contract: $2.445
+Vendor Billed: $2.485
+
+Difference: $.04",OE00035688,48883,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.445,2.485,0.04,2462.6,98.504,,,,
+PO47197,2025-10-27T17:20:06.813Z,"
+
+
+
+
+
+
+
+Dyed Diesel-Gross Contract Average For Richmond: $2.2721
+Southside Fuel Margin: $.25
+Total price Per Contract: $2.5221
+Vendor Billed: $2.5621
+
+Difference: $.04
+
+",OE00035806,48953,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,detected,unexpected_line_item,Dyed Diesel,0,8884.59,8884.59,3467.7,30809092.743,,,,
+PO47197,2025-10-27T17:20:06.813Z,"
+
+
+
+
+
+
+
+Dyed Diesel-Gross Contract Average For Richmond: $2.2721
+Southside Fuel Margin: $.25
+Total price Per Contract: $2.5221
+Vendor Billed: $2.5621
+
+Difference: $.04
+
+",OE00035806,48953,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,detected,missing_line_item,Red Dye Diesel #2 - ULS,8884.59417,0,-8884.59417,3467.7,-30809107.203309,,,,
+PO47195,2025-10-27T17:17:02.267Z,"Dyed Diesel-Gross Contract Average For Richmond: $2.2721
+Southside Fuel Margin: $.25
+Total price Per Contract: $2.5221
+Vendor Billed: $2.5621
+
+Difference: $.04",OE00035808,48954,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.5221,2.5621,0.04,2588.5,103.54,,,,
+PO47128,2025-10-27T17:13:45.895Z,"Dyed Diesel-Gross Contract Average Unbranded: $2.2933
+American Mobile Margin: $.24
+Total Price Per Contract: $2.5333
+Vendor Billed: $2.5597
+
+Difference: $.0264",OE00035563,1150201,"Quality Technology Services, LLC (QTS)",ATL2-DC9,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.5333,2.5597,0.0264,4312.5,113.85,,,,
+PO46974,2025-10-27T17:09:47.656Z,"Dyed Diesel-Gross Contract Average Unbranded For Pensacola: $2.5792
+JV Gander Margin: $.35
+Total Price Per Contract: $2.9292
+Vendor Billed: $2.8605
+
+Difference: $-.0687",OE00035602,64278,"Beard Equipment Company, INC.  ","Pensacola, FL",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.9292,2.8605,-0.0687,800,-54.96,,,,
+PO47013,2025-10-27T17:06:51.860Z,"Dyed Diesel-Gross Contract Average For Phoenix: $2.3973
+Dill Petroleum Margin: $.48
+Total Price Per Contract: $2.8773
+Vendor Billed: $2.885
+
+Difference: $.0077",OE00035557,10209,"Quality Technology Services, LLC (QTS)",PHX3-DC14,dispute_active,,detected,unexpected_line_item,Red Dyed Diesel #2 ULSD HOUSE GEN(1),0,9.23,9.23,3.2,29.536,,,,
+PO47013,2025-10-27T17:06:51.860Z,"Dyed Diesel-Gross Contract Average For Phoenix: $2.3973
+Dill Petroleum Margin: $.48
+Total Price Per Contract: $2.8773
+Vendor Billed: $2.885
+
+Difference: $.0077",OE00035557,10209,"Quality Technology Services, LLC (QTS)",PHX3-DC14,dispute_active,,detected,unexpected_line_item,Red Dyed Diesel #2 ULSD HOUSE GEN(3),0,2022.67,2022.67,701.1,1418093.9370000002,,,,
+PO47013,2025-10-27T17:06:51.860Z,"Dyed Diesel-Gross Contract Average For Phoenix: $2.3973
+Dill Petroleum Margin: $.48
+Total Price Per Contract: $2.8773
+Vendor Billed: $2.885
+
+Difference: $.0077",OE00035557,10209,"Quality Technology Services, LLC (QTS)",PHX3-DC14,dispute_active,,detected,unexpected_line_item,Red Dyed Diesel #2 ULSD HOUSE GEN(4),0,2310.6,2310.6,800.9,1850559.5399999998,,,,
+PO47013,2025-10-27T17:06:51.860Z,"Dyed Diesel-Gross Contract Average For Phoenix: $2.3973
+Dill Petroleum Margin: $.48
+Total Price Per Contract: $2.8773
+Vendor Billed: $2.885
+
+Difference: $.0077",OE00035557,10209,"Quality Technology Services, LLC (QTS)",PHX3-DC14,dispute_active,,detected,unexpected_line_item,Red Dyed Diesel #2 ULSD HOUSE GEN(5),0,2313.19,2313.19,801.8,1854715.7419999999,,,,
+PO47013,2025-10-27T17:06:51.860Z,"Dyed Diesel-Gross Contract Average For Phoenix: $2.3973
+Dill Petroleum Margin: $.48
+Total Price Per Contract: $2.8773
+Vendor Billed: $2.885
+
+Difference: $.0077",OE00035557,10209,"Quality Technology Services, LLC (QTS)",PHX3-DC14,dispute_active,,detected,unexpected_line_item,Red Dyed Diesel #2 ULSD HOUSE GEN(6),0,2873.46,2873.46,996,2861966.16,,,,
+PO47013,2025-10-27T17:06:51.860Z,"Dyed Diesel-Gross Contract Average For Phoenix: $2.3973
+Dill Petroleum Margin: $.48
+Total Price Per Contract: $2.8773
+Vendor Billed: $2.885
+
+Difference: $.0077",OE00035557,10209,"Quality Technology Services, LLC (QTS)",PHX3-DC14,dispute_active,,detected,unexpected_line_item,FED UST - DSL,0,3.83,3.83,1,3.83,,,,
+PO47013,2025-10-27T17:06:51.860Z,"Dyed Diesel-Gross Contract Average For Phoenix: $2.3973
+Dill Petroleum Margin: $.48
+Total Price Per Contract: $2.8773
+Vendor Billed: $2.885
+
+Difference: $.0077",OE00035557,10209,"Quality Technology Services, LLC (QTS)",PHX3-DC14,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8773,2.885,0.0077,534.7,4.117190000000001,,,,
+PO47168,2025-10-27T17:02:26.151Z,"Dyed Diesel-Gross Contract Average For Richmond: $2.195
+Vendor Margin: $.25
+Total Price Per Contract: $2.445
+Vendor Billed: $2.485
+
+Difference: $.04",OE00035686,48885,"Quality Technology Services, LLC (QTS)",RIC3-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.445,2.485,0.04,4497,179.88,,,,
+PO47182,2025-10-27T16:38:32.881Z,"Dyed Diesel-Gross Contract Average: $2.2074
+Southside Fuel Margin: $.52
+Total Price Per Contract: $2.7274
+Vendor Billed: $2.4974
+
+Difference: $-.23",OE00035731,48958,"Quality Technology Services, LLC (QTS)",RIC3-DC1,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7274,2.4974,-0.23,496.9,-114.287,,,,
+PO46536,2025-10-27T16:34:59.822Z,"Clear Diesel-Gross Contract Average Unbranded: $2.4507
+Growmark Margin: $.55
+Total Price Per Contract: $3.007
+Vendor Billed: $2.8787
+
+Difference: $-.122",OE00035612,200014243,"Amazon Logistics, Inc.",Amazon-DeKalb-IGQ9,dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,47.498549999999994,0,-47.498549999999994,16.5,-783.7260749999999,,,,
+PO46536,2025-10-27T16:34:59.822Z,"Clear Diesel-Gross Contract Average Unbranded: $2.4507
+Growmark Margin: $.55
+Total Price Per Contract: $3.007
+Vendor Billed: $2.8787
+
+Difference: $-.122",OE00035612,200014243,"Amazon Logistics, Inc.",Amazon-DeKalb-IGQ9,dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,66.49797,0,-66.49797,23.1,-1536.103107,,,,
+PO47183,2025-10-27T13:15:34.931Z,"Dyed Diesel-Gross Contract Average For Richmond: $2.2074
+Southside Fuel Margin:$.25
+Total Price Per Contract: $2.4574
+Vendor Billed: $2.4974
+
+Difference: $.04",OE00035734,48906,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.4574,2.4974,0.04,4341.9,173.676,,,,
+PO47185,2025-10-27T13:15:12.286Z,,OE00035733,48908,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.4574,2.4974,0.04,2601.4,104.05600000000001,,,,
+PO47186,2025-10-27T13:14:48.016Z,"Dyed Diesel-Gross Contract Average For Richmond: $2.2074
+Southside Fuel Margin:$.25
+Total Price Per Contract: $2.4574
+Vendor Billed: $2.4974
+
+Difference: $.04",OE00035737,48922,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.4574,2.4974,0.04,2029.8,81.192,,,,
+PO47184,2025-10-27T13:14:24.259Z,"Dyed Diesel-Gross Contract Average For Richmond: $2.2074
+Southside Fuel Margin:$.25
+Total Price Per Contract: $2.4574
+Vendor Billed: $2.4974
+
+Difference: $.04",OE00035736,48920,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.4574,2.4974,0.04,1791.3,71.652,,,,
+PO47188,2025-10-27T13:12:45.700Z,"Dyed Diesel-Gross Contract Average For Richmond: $2.2074
+Southside Fuel Margin:$.25
+Total Price Per Contract: $2.4574
+Vendor Billed: $2.4974
+
+Difference: $.04",OE00035735,48839,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.4574,2.4974,0.04,4262,170.48,,,,
+PO47187,2025-10-27T13:11:52.152Z,"Dyed Diesel-Gross Contract Average For Richmond: $2.2074
+Southside Fuel Margin:$.25
+Total Price Per Contract: $2.4574
+Vendor Billed: $2.4974
+
+Difference: $.04",OE00035732,48904,"Quality Technology Services, LLC (QTS)",RIC3-DC3,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.4574,2.4974,0.04,2452.6,98.104,,,,
+PO47022,2025-10-27T12:41:34.767Z,"Dyed Diesel-Gross Contract Average Unbranded For Jacksonville: $2.2762
+Paul Murray Oil Margin: $.40
+Total Price Per Contract: $2.6762
+Vendor Billed: $2.729
+
+Difference: $.0528",OE00035696,172047,"Beard Equipment Company, INC.  ","Jacksonville, FL",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.6762,2.729,0.0528,400.1,21.12528,,,,
+PO47164,2025-10-27T11:37:30.921Z,"Clear Diesel-Gross Contract Average Unbranded For New Orleans: $2.2116
+McPerson Oil Margin: $.32
+Total Price Per Contract: $$2.5316
+Vendor Billed: $2.698259
+
+Difference: $.166659",OE00035721,1323672,"Fortune International, LLC","Fortune Fish - New Orleans, LA",dispute_active,,detected,unexpected_line_item,18 #2ULS CLEAR DSL EFFICIENT,0,1602.77,1602.77,594,952045.38,,,,
+PO47164,2025-10-27T11:37:30.921Z,"Clear Diesel-Gross Contract Average Unbranded For New Orleans: $2.2116
+McPerson Oil Margin: $.32
+Total Price Per Contract: $$2.5316
+Vendor Billed: $2.698259
+
+Difference: $.166659",OE00035721,1323672,"Fortune International, LLC","Fortune Fish - New Orleans, LA",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,410.57488799999993,0,-410.57488799999993,162.18,-66587.03533583999,,,,
+PO47164,2025-10-27T11:37:30.921Z,"Clear Diesel-Gross Contract Average Unbranded For New Orleans: $2.2116
+McPerson Oil Margin: $.32
+Total Price Per Contract: $$2.5316
+Vendor Billed: $2.698259
+
+Difference: $.166659",OE00035721,1323672,"Fortune International, LLC","Fortune Fish - New Orleans, LA",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,364.0947119999999,0,-364.0947119999999,143.82,-52364.101479839985,,,,
+PO45886,2025-10-27T11:32:05.453Z,"Clear Bio Diesel (5%)-Gross Contract Average Unbranded For Memphis: $2.3334
+Best-Wade Margin: $.45
+Total Price Per Contract: $2.6834
+Vendor Billed $2.601
+
+Difference: $-.0824",OE00035684,0129684,"Lazer Spot, Inc.","Lazer - Site 102796 - Byhalia, MS",dispute_active,,disputed,price_discrepancy,(5% BioDsl) - Clear Diesel #2 - ULS,2.7142,2.601,-0.1132,86.4,-9.78048,,,,
+PO43006,2025-10-24T18:06:21.156Z,"Dyed Bio Diesel (5%)-Gross Contract Average For Eugene: $2.8901
+Carson/Ceco Margin: $.40
+Total Price Per Contract: $3.2901
+Vendor Billed: $3.0817 ( This is the rate before taxes. The billed rate includes taxes.)
+
+Difference: $-.21",OE00035600,IN-1216747,Lowe's Companies Inc,"LOWES - Lebanon, OR - DC 1436",dispute_active,,disputed,price_discrepancy,(5% BioDsl) - Red Dye Diesel #2 - ULS,3.2901,3.3818,0.0917,500.1,45.859170000000006,,,,
+PO47140,2025-10-24T17:09:05.515Z,"Dyed Diesel-Gross Contract Average Unbranded: $2.1845
+Davison fuels Margin: $.75
+Total price Per Contract: $2.9345
+Vendor Billed: $2.947083
+
+Difference: $.012583",OE00035425,INV-894955,"Lazer Spot, Inc.","Lazer - Site 3320004 - Birmingham, AL ",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.9345,2.947083,0.012583,24,0.30199200000000004,,,,
+PO43793,2025-10-24T16:27:05.235Z,"Dyed Diesel-Gross Contract Average Unbranded For Birmingham: $2.1808
+Davison Fuels Margin: $.75
+Total Price Per Contract: $2.9308
+Vendor Billed: $2.941429
+
+Difference: $.010629",OE00035580,INV-899905,"Lazer Spot, Inc.","Lazer - Site 3320004 - Birmingham, AL ",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.9308,2.941429,0.010629,49,0.520821,,,,
+PO46534,2025-10-24T15:07:19.986Z,"Clear Diesel-Gross Contract Average Unbranded For Rockford: $2.3271
+Growmark Margin: $.55
+Total Contract Price Per Contract: $2.8771
+Vendor Billed: $2.7472
+
+Difference: $-.1299",OE00035482,200014171,"Amazon Logistics, Inc.",Amazon-DeKalb-IGQ9,dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,23.900639999999996,0,-23.900639999999996,8.7,-207.93556799999993,,,,
+PO46534,2025-10-24T15:07:19.986Z,"Clear Diesel-Gross Contract Average Unbranded For Rockford: $2.3271
+Growmark Margin: $.55
+Total Contract Price Per Contract: $2.8771
+Vendor Billed: $2.7472
+
+Difference: $-.1299",OE00035482,200014171,"Amazon Logistics, Inc.",Amazon-DeKalb-IGQ9,dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,26.098399999999998,0,-26.098399999999998,9.5,-247.9348,,,,
+PO46535,2025-10-24T14:50:37.305Z,"Clear Diesel-Gross Contract Average Unbranded For Rockford: $2.3395
+Growmark margin: $.55
+Total Price Per Contract: $2.8895
+Vendor Billed: $2.8166
+
+Difference: $-.0729",OE00035481,200014172,"Amazon Logistics, Inc.",Amazon-DeKalb-IGQ9,dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,64.50014,0,-64.50014,22.9,-1477.053206,,,,
+PO46535,2025-10-24T14:50:37.305Z,"Clear Diesel-Gross Contract Average Unbranded For Rockford: $2.3395
+Growmark margin: $.55
+Total Price Per Contract: $2.8895
+Vendor Billed: $2.8166
+
+Difference: $-.0729",OE00035481,200014172,"Amazon Logistics, Inc.",Amazon-DeKalb-IGQ9,dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,27.88434,0,-27.88434,9.9,-276.05496600000004,,,,
+PO46946,2025-10-24T13:01:48.541Z,"Clear Diesel-Gross Contract Average Unbranded For Rockford: $2.4486
+Bell Fuels Margin: $.71
+Total Price Per Contract: $3.1586
+Vendor Billed: $2.9922
+
+Difference: $-.1664",OE00035559,524185,Right Track Inc.,right track inc,dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,3.1586,2.9922,-0.1664,523.5,-87.1104,,,,
+PO44462,2025-10-24T12:58:05.786Z,"Clear Bio Diesel (5%)-Gross Contract Average Unbranded For Memphis: $2.275
+Best-Wade Margin: $.35
+Total Price Per Contract: $2.625
+Vendor Billed: $2.5431
+
+Difference: $-.0819",OE00035555,0129546,"Lazer Spot, Inc.","Lazer - Site 3320006 - South Haven, MS",dispute_active,,disputed,price_discrepancy,(5% BioDsl) - Clear Diesel #2 - ULS,2.625,2.5431,-0.0819,21.1,-1.7280900000000001,,,,
+PO47104,2025-10-24T12:43:02.040Z,"Dyed Diesel-Gross Contract Average For Griffin: $2.3251
+American Mobile Margin: $.24
+Total Price Per Contract: $2.561
+Vendor Billed: $2.5861
+
+Difference: $.021",OE00035222,1149583,"Quality Technology Services, LLC (QTS)",ATL2-DC9,dispute_active,,detected,missing_line_item,Red Dye Diesel #2 - ULS,11156.4354,0,-11156.4354,4314,-48128862.3156,,,,
+PO44713,2025-10-24T11:56:25.626Z,"Dyed Diesel-Gross Contract Average Unbranded For Norfolk: $2.2139
+Suffolk Energies Margin: $.45
+Total Price Per Contract: $2.6639
+Vendor Billed: $2.683
+
+ Difference: $.0191",OE00035605,55120,Lowe's Companies Inc,"LOWES - Suffolk, Virginia - Store # 3121 ",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.6639,2.683,0.0191,90.9,1.73619,,,,
+PO42880,2025-10-24T10:52:31.710Z,"Clear Diesel-Gross Contract Average Unbranded For Tampa: $2.325
+Tropic Oil Margin: $.45
+Total Price Per Contract: $2.575
+Vendor Billed: $2.522302
+
+Difference$-.052698",OE00035570,IN-931191-25,"Yoder's Eggs, Inc.",Sutter's Quality Foods/  Sarasota FL,dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.575,2.522302,-0.052698,615.2,-32.4198096,,,,
+PO46897,2025-10-22T18:54:06.910Z,"Dyed Diesel-Gross Contract Average For Tacoma: $3.3772
+Wilcox + Flagel: $.41
+Total Price Contract Price: $3.7872
+Vendor Billed: $3.80352
+
+Difference: $.01632
+",OE00035368,0982933-IN,Lowe's Companies Inc,"LOWES - Centralia, WA - DC 1464 ",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.7872,3.80352,0.01632,256,4.17792,,,,
+PO47112,2025-10-22T17:52:26.620Z,"Clear Diesel-Gross Contract Average Unbranded: $2.2701
+Growmark Margin; $.60
+Total Price Per Contract: $2.8701
+Vendor Billed: $2.8726
+
+Difference: $.0025",OE00035483,600002053,"Fortune International, LLC","Fortune Int - Windsor, WI",dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.8701,2.8726,0.0025,1052.2,2.6305,,,,
+PO47110,2025-10-22T16:58:54.930Z,"Clear Diesel-Gross Contract Average Unbranded For New Orleans: $2.1475
+McPherson Oil Margin: $.032
+Total Price Per Contract: $2.4675
+Vendor Billed: $2.509259
+
+Difference: $.041759",OE00035477,1322393,"Fortune International, LLC","Fortune Fish - New Orleans, LA",dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.467559,2.509259,0.0417,890,37.113,,,,
+PO46242,2025-10-22T14:33:26.939Z,"Clear Diesel-Gross Contract Average Unbranded For Houston: $2.1619
+Force Energy Margin: $.50
+Total Price Per Contract: $2.6619
+Vendor Billed: $2.6965
+
+Difference: $.0346",OE00035507,20025,"Primoris Energy Services ","Primoris Energy Services - Sweeny, TX",dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS (Texas),2.6619,2.6965,0.0346,765,26.468999999999998,,,,
+PO45285,2025-10-22T14:04:22.200Z,"Clear Diesel-Gross Contract Average Unbranded For Boston: $2.3063
+Taylor Oil Margin: $1.25
+Total Price Per Contract: $3.5563
+Vendor Billed: $3.5276
+
+Difference: $-.0287",OE00035480,J228628-IN,"Fortune International, LLC","Fortune Int - Boston, MA",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,9.24638,0,-9.24638,2.6,-24.040588000000003,,,,
+PO45285,2025-10-22T14:04:22.200Z,"Clear Diesel-Gross Contract Average Unbranded For Boston: $2.3063
+Taylor Oil Margin: $1.25
+Total Price Per Contract: $3.5563
+Vendor Billed: $3.5276
+
+Difference: $-.0287",OE00035480,J228628-IN,"Fortune International, LLC","Fortune Int - Boston, MA",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,21.337799999999998,0,-21.337799999999998,6,-128.02679999999998,,,,
+PO45285,2025-10-22T14:04:22.200Z,"Clear Diesel-Gross Contract Average Unbranded For Boston: $2.3063
+Taylor Oil Margin: $1.25
+Total Price Per Contract: $3.5563
+Vendor Billed: $3.5276
+
+Difference: $-.0287",OE00035480,J228628-IN,"Fortune International, LLC","Fortune Int - Boston, MA",dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,3.5563,3.5276,-0.0287,32.7,-0.93849,,,,
+PO44185,2025-10-22T12:35:29.865Z,"Clear Diesel-Gross Contract Average Unbranded For Denver: $2.4354
+Senergy Margin: $.45
+Total Price Per Contract: $2.8854
+Vendor Billed: $2.9054
+
+Difference: $.02",OE00035472,415268442,Velocity Ready Mix (VRM),"Denver, CO",dispute_active,,detected,unexpected_line_item,CLEAR-ULSD #2,0,931.76,931.76,320.7,298815.432,,,,
+PO44185,2025-10-22T12:35:29.865Z,"Clear Diesel-Gross Contract Average Unbranded For Denver: $2.4354
+Senergy Margin: $.45
+Total Price Per Contract: $2.8854
+Vendor Billed: $2.9054
+
+Difference: $.02",OE00035472,415268442,Velocity Ready Mix (VRM),"Denver, CO",dispute_active,,detected,missing_line_item,Clear Diesel #2 - ULS,925.3477800000001,0,-925.3477800000001,320.7,-296759.033046,,,,
+PO47031,2025-10-21T20:06:22.792Z,"OPIS GCA (Tacoma) + .092 Diff should have been 3.4692. Please issue Credit Rebill to correct. ",OE00035395,25-497111,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_active,,disputed,price_discrepancy,Dyed- Ultra Low Sulfur with 99% Renewable Diesel (Non-Bio) - National,3.4692,3.477199,0.007999,1935,15.478064999999999,,,,
+PO47024,2025-10-21T17:40:53.141Z,"Dyed Diesel-Gross Contract Average Unbranded for Dallas: $2.1692
+4 Refuel Margin: $.275
+Total Price Per Contract: $2.4442
+Vendor Billed: $2.5296987 (before taxes)
+
+Difference: $.0876987",OE00035357,1070219,"Quality Technology Services, LLC (QTS)",DFW1-DC6,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.4442,2.5369,0.0927,2197.4,203.69898,,,,
+PO45883,2025-10-21T17:27:29.620Z,"Dyed Bio(5%) Diesel-Gross Contract Average for Memphis: $2.3777
+Best-Wade Margin: $.35
+Total Price Per Contract: $2.7277
+Vendor Billed: $2.7629
+
+Difference: $.0352",OE00035260,128753R,"Lazer Spot, Inc.","Lazer - Site 102796 - Byhalia, MS",dispute_active,,detected,unexpected_line_item,"0000008 Gallons Dyed Dsl B5 NA 1993, Diesel Fuel, 3, PG III Whse: 060",0,106.65,106.65,38.6,4116.6900000000005,,,,
+PO45883,2025-10-21T17:27:29.620Z,"Dyed Bio(5%) Diesel-Gross Contract Average for Memphis: $2.3777
+Best-Wade Margin: $.35
+Total Price Per Contract: $2.7277
+Vendor Billed: $2.7629
+
+Difference: $.0352",OE00035260,128753R,"Lazer Spot, Inc.","Lazer - Site 102796 - Byhalia, MS",dispute_active,,detected,missing_line_item,(0%-5% BioDsl) - Clear Diesel #2 - ULS,432.8452,0,-432.8452,164,-70986.6128,,,,
+PO44908,2025-10-21T16:22:35.296Z,"Clear Diesel-Gross Contract Average Unbranded for Pittsburgh: $2.3158
+Jacobs Petroleum Margin: $.25
+Total Price Per Contract: $2.5658
+Vendor Billed: $2.5455
+
+Difference: -$.0203",OE00035355,2012633,"Lazer Spot, Inc.","Lazer - Site 102791- Morgantown, WV",dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.5658,2.5455,-0.0203,44.3,-0.8992899999999999,,,,
+PO47002,2025-10-21T11:58:35.300Z,"Dyed (5%) Bio Diesel-Gross Contract Average Unbranded for Memphis: $2.3777
+Best-Wade Margin; $.035
+Total Price Per Contract: $2.7277
+Vendor Billed; $2.5706
+
+Difference: -$.1571",OE00035318,0129321,"Lazer Spot, Inc.","Lazer - Site 3320005 - Olive Branch, MS",dispute_active,,disputed,price_discrepancy,(5% BioDsl) - Red Dye Diesel #2 - ULS,2.7277,2.5706,-0.1571,22,-3.4562,,,,
+PO46953,2025-10-17T14:56:36.844Z,"Pricing should have be $3.59820 OPIS GCA (Tacoma) + $0.092 (Product Diff.) ",OE00035121,25-493748,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_active,,disputed,price_discrepancy,Dyed- Ultra Low Sulfur with 99% Renewable Diesel (Non-Bio) - National,3.5982,3.606201,0.008001,2910.8,23.2893108,,,,
+PO46817,2025-10-17T14:17:38.992Z,"Dyed Diesel-Gross Contract Average Unbranded for Dallas: $2.2166
+4Refuel Margin: $.75
+Total Price Per Contract: $2.9666
+Vendor Billed: $2.9985
+
+Difference: $.0319",OE00035168,1070112,US Foods Chef' Store,"CHEF'STORE Farmers Branch, TX",dispute_active,,detected,unexpected_line_item,01162858 MARKED DIESEL REEFER(1),0,24.89,24.89,8.3,206.58700000000002,,,,
+PO46817,2025-10-17T14:17:38.992Z,"Dyed Diesel-Gross Contract Average Unbranded for Dallas: $2.2166
+4Refuel Margin: $.75
+Total Price Per Contract: $2.9666
+Vendor Billed: $2.9985
+
+Difference: $.0319",OE00035168,1070112,US Foods Chef' Store,"CHEF'STORE Farmers Branch, TX",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS (Texas),2.9666,2.9985,0.0319,14,0.4466,,,,
+PO41578,2025-10-17T14:07:20.716Z,"Dyed Diesel-Gross Contract Average Unbranded for North augusta: $2.2438
+Colonial Margin: $.35
+Total Price Per Contract: $2.5938
+Vendor Billed: $2.6114
+
+Difference: $.0176",OE00035153,IN-1651437,Kimberly Clark Corporation,"Beach Island, South Carolina Plant ",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.5938,2.6114,0.0176,1556.2,27.389120000000002,,,,
+PO46949,2025-10-17T13:18:38.760Z,"Dyed Diesel-Gross Contract Average Unbranded Richmond: $2.2338
+Southside Fuel Margin; $.52
+Total Price Per Contract: $2.7538
+Vendor Billed: $2.5319
+
+Difference: -$.02219",OE00035027,48669,"Quality Technology Services, LLC (QTS)",RIC1-DC2,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7538,2.5319,-0.2219,911.1,-202.17309,,,,
+PO46532,2025-10-16T15:52:56.811Z,Can you update the CPG for this invoice? The GCAVU OPIS price for 10/13/25 was $2.3299. The CPG should be $2.8799 (2.3299 + .55) We were billed $2.7635 which is $.1164 less than the expected price.,OE00035064,200014075,"Amazon Logistics, Inc.",Amazon-DeKalb-IGQ9,dispute_active,,disputed,price_discrepancy,Clear Diesel #2 - ULS,2.8799,2.7635,-0.1164,52.6,-6.1226400000000005,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,257.5,14.54875,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,380.1,21.47565,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,626.8,35.4142,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,842.4,47.5956,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,289.7,16.36805,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,319.5,18.051750000000002,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,144.1,8.14165,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,301.2,17.0178,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,484.6,27.379900000000003,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,588,33.222,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,377.9,21.35135,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,333.6,18.8484,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,339.9,19.204349999999998,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,588,33.222,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,507.4,28.6681,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,303.9,17.17035,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,668.1,37.74765,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,435.8,24.622700000000002,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,495.1,27.97315,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,624.7,35.295550000000006,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,556.3,31.43095,,,,
+PO46843,2025-10-16T10:58:18.885Z,Can you adjust the CPG for this invoice? The Billed Rate was $.0565 higher than the Expected Rate. The CPG should be $2.558 but we were billed $2.6123.,OE00035068,1069884,"Quality Technology Services, LLC (QTS)",DFW1-DC5,dispute_active,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5558,2.6123,0.0565,26.6,1.5029000000000001,,,,
+PO45769,2025-10-16T10:21:18.751Z,"Akins Petroleum Team, Can you adjust the CPG for this invoice? The billed price is $.0198 less than the expected rate. We should be billed $2.7592.",OE00035011,182311DD,Dozr Inc.,"Albany, GA PO#DZ40658",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.7592,2.7394,-0.0198,235,-4.6530000000000005,,,,
+PO44427,2025-10-16T10:18:16.881Z,"Best Wade Team,Can you adjust the CPG for this invoice? The billed price for the B5 Clear Diesel is $.0749 less than the expected rate.",OE00035013,0128875,"Lazer Spot, Inc.","Lazer - Site 3320005 - Olive Branch, MS",dispute_active,,detected,missing_line_item,Compliance Fee,8.95,0,-8.95,1,-8.95,,,,
+PO44427,2025-10-16T10:18:16.881Z,"Best Wade Team,Can you adjust the CPG for this invoice? The billed price for the B5 Clear Diesel is $.0749 less than the expected rate.",OE00035013,0128875,"Lazer Spot, Inc.","Lazer - Site 3320005 - Olive Branch, MS",dispute_active,,disputed,price_discrepancy,(5% BioDsl) - Clear Diesel #2 - ULS,2.7142,2.6393,-0.0749,28.1,-2.1046899999999997,,,,
+PO45770,2025-10-16T10:10:49.691Z,"Can you adjust the CPG for this invoice? The billed price is $.05478 higher than the expected rate. ",OE00035012,182314DD,Dozr Inc.,"Albany, GA PO#DZ40658",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.6806,2.73538,0.05478,260,14.2428,,,,
+PO43529,2025-10-15T18:11:52.107Z,"The billed price is $0.0083 higher than expected. Can you please adjust the pricing on your invoice so it matches the expected rate of $2.6479.
+Also we were billed for another delivery fee even though we were billed for the delivery on the previous invoice for the same day.",OE00034978,3906793,"Lazer Spot, Inc.","Americold - Site 100470 - Strasburg, VA",dispute_active,,disputed,unexpected_line_item,Delivery Fee Nontaxable,0,6.99,6.99,1,6.99,,,,
+PO46903,2025-10-15T15:24:07.669Z,The billed price is $0.0083 higher than expected. Can you please adjust the pricing on your invoice so it matches the expected rate of $2.6479.,OE00034977,3906792,"Lazer Spot, Inc.","Americold - Site 100470 - Strasburg, VA",dispute_active,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.6479,2.6562,0.0083,561.2,4.65796,,,,
+PO48853,2025-12-12T13:47:14.357Z,"Dyed Diesel-Gross Contract Average For Cheyenne: $2.0967
+Senergy Margin: $.30
+Total Price Per Contract: $2.3967
+Vendor Billed: $2.5258
+
+Difference: $.1291",OE00039713,415329988,Velocity Ready Mix (VRM),"Denver, CO",dispute_overridden,This was mixed with another Seergy bill for VRM,detected,unexpected_line_item,CLEAR-ULSD #2,0,631.45,631.45,250,157862.5,2025-12-15T15:53:28.540Z,601e5ebfaedbea346f5151e5,,
+PO48853,2025-12-12T13:47:14.357Z,"Dyed Diesel-Gross Contract Average For Cheyenne: $2.0967
+Senergy Margin: $.30
+Total Price Per Contract: $2.3967
+Vendor Billed: $2.5258
+
+Difference: $.1291",OE00039713,415329988,Velocity Ready Mix (VRM),"Denver, CO",dispute_overridden,This was mixed with another Seergy bill for VRM,detected,missing_line_item,Red Dye Diesel #2 - ULS,1728.0549999999998,0,-1728.0549999999998,712.6,-1231411.993,2025-12-15T15:53:28.540Z,601e5ebfaedbea346f5151e5,,
+PO47472,2025-11-12T15:06:07.751Z,"Dyed Diesel-Gross Contract average For Cheyenne: $2.8038
+Senergy Margin: $.30
+Total Price Per Contract: $3.1038
+Vendor Billed: $3.175
+
+Difference: $.0712",OE00037152,415288036,Lowe's Companies Inc,"LOWES - Cheyenne, WY - RDC 965  ",dispute_overridden,Price is correct,detected,price_discrepancy,Red Dye Diesel #2 - ULS,3.1038,3.175,0.0712,555.1,39.52312,2025-12-10T19:08:36.772Z,601e5ebfaedbea346f5151e5,,
+PO48454,2025-11-25T02:07:27.016Z,Taxes are insufficient,OE00038876,25-518263A,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_overridden,Ok to Bill,solved,price_discrepancy,Dyed- Ultra Low Sulfur with 99% Renewable Diesel (Non-Bio) - National,3.2923,3.292301,0.000001,1927.6,0.0019275999999999998,2025-12-01T21:25:19.044Z,68a5e49426a7de61a81fb3ae,,
+PO47268,2025-10-30T13:03:12.045Z,Price should have been $3.4636,OE00034878,25-491562,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_overridden,Invoice is ok,solved,price_discrepancy,Red Dye Diesel #2 - ULS,3.4793,3.479299,-0.000001,1356,-0.001356,2025-12-01T21:17:56.748Z,68a5e49426a7de61a81fb3ae,,
+PO47220,2025-10-28T18:49:53.051Z,,OE00035872,25-494292A,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_overridden,No issues,solved,price_discrepancy,Dyed- Ultra Low Sulfur with 99% Renewable Diesel (Non-Bio) - National,3.5462,3.546202,0.000002,1931.1,0.0038621999999999997,2025-12-01T21:10:57.884Z,68a5e49426a7de61a81fb3ae,,
+PO48431,2025-11-24T21:29:42.837Z,Minimum Freight looks to have been calculated using Diesel Minimum Gallons vs. Gas Minimum Gallons. Please issue C/R to correct,OE00038452,27191459,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_rebilled,,disputed,price_discrepancy,Minimum Gallon Delivery Fee,270.92,218.19,-52.73,1,-52.73,2025-12-18T14:09:02.698Z,681260e061771294e67446c4,2025-12-18T14:09:02.698Z,OE00039881
+PO48877,2025-12-16T12:35:25.092Z,"Dyed Diesel-Gross Contract Average Unbranded For Columbus; $2.1199
+Santmyer Margin; $.40
+Total Price Per Contract; $2.5199
+Vendor Billed; $2.795911
+
+Difference; $.276011",OE00039306,IN-164036,Kittle Property Group Inc.,"Kittle - Canal Winchester, OH",dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.5199,2.795911,0.276011,225,62.102475,2025-12-17T21:16:17.559Z,681260e061771294e67446c4,2025-12-17T21:16:17.559Z,OE00040268
+PO48509,2025-12-16T11:50:50.557Z,"Dyed Diesel-Gross Contract Average For Jacksonville: $2.4192
+Lewis Oil Margin: $.40
+Total Price Per Contract; $2.8192
+Vendor Billed: $3.1792
+
+Difference; $.36",OE00039355,1006101,"Beard Equipment Company, INC.  ","Lake City, FL",dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8192,3.1792,0.36,335.9,120.92399999999999,2025-12-17T15:32:18.365Z,681260e061771294e67446c4,2025-12-17T15:32:18.365Z,OE00040217
+PO47531,2025-11-07T19:05:05.376Z,Expected Pricing was $2.6339 vs. $2.6735 Billed. Please issue Credit Rebill to correct,OE00036123,11437544,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_rebilled,,detected,unexpected_line_item,Regulatory Compliance Charge (Commercial),0,14.99,14.99,1,14.99,2025-12-16T16:43:05.555Z,681260e061771294e67446c4,2025-12-16T16:43:05.555Z,OE00037505
+PO47531,2025-11-07T19:05:05.376Z,Expected Pricing was $2.6339 vs. $2.6735 Billed. Please issue Credit Rebill to correct,OE00036123,11437544,Carrix,PRS - Bethlehem - 2400 Commerce Center Blvd,dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.6339,2.6735,0.0396,969.9,38.40804,2025-12-16T16:43:05.555Z,681260e061771294e67446c4,2025-12-16T16:43:05.555Z,OE00037505
+PO48933,2025-12-09T19:35:21.859Z,"Pricing was Billed at $3.249502 vs. Expected Rate of $3.1893. Please Credit Rebill. ",OE00039546,25-533654,Carrix,SSAT - Seattle - T5 CEM - 3443 W Marginal Way SW,dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1893,3.249502,0.060202,2719.3,163.7072986,2025-12-15T19:40:04.775Z,681260e061771294e67446c4,2025-12-15T19:40:04.775Z,OE00039904
+PO48936,2025-12-09T19:47:35.967Z,Billed Price was $2.451623 vs. Expected $2.3655. Please issue Credit and Rebill.,OE00039545,25-533655,Carrix,SSAT - Seattle - T5 CEM - 3443 W Marginal Way SW,dispute_rebilled,,disputed,price_discrepancy,87 Unleaded (w/10% Eth),2.3655,2.451623,0.086123,129.4,11.1443162,2025-12-15T19:30:21.900Z,681260e061771294e67446c4,2025-12-15T19:30:21.900Z,OE00039900
+PO49115,2025-12-15T18:15:10.142Z,Billed Pricing was $3.1509 vs. Expected of $3.0366. Please Credit and Rebill.,OE00039838,25-537182,Carrix,SSAT - Seattle - T5 CEM - 3443 W Marginal Way SW,dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.0366,3.1509,0.1143,2100,240.03,2025-12-15T19:23:22.741Z,681260e061771294e67446c4,2025-12-15T19:23:22.741Z,OE00039901
+PO49042,2025-12-12T12:47:06.936Z,Billed Pricing was $2.9114 vs. Expected $2.8414. Please correct and issue Credit Rebill,OE00038844,IN-1673226,Carrix,SSA Atlantic - Morehead City - 113 Arendell St Ste 208,dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.8414,2.9114,0.07,1417.5,99.22500000000001,2025-12-12T17:41:26.620Z,681260e061771294e67446c4,2025-12-12T17:41:26.620Z,OE00039841
+PO49023,2025-12-11T18:42:03.851Z,Expected Pricing vs Billed Pricing issue. Please Credit Rebill,OE00039682,CFS-4462363,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.159,3.61368,0.45468,19,8.638919999999999,2025-12-12T03:25:00.078Z,681260e061771294e67446c4,2025-12-12T03:25:00.078Z,OE00039750
+PO49023,2025-12-11T18:42:03.851Z,Expected Pricing vs Billed Pricing issue. Please Credit Rebill,OE00039682,CFS-4462363,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.159,3.61376,0.45476,83.6,38.017936,2025-12-12T03:25:00.078Z,681260e061771294e67446c4,2025-12-12T03:25:00.078Z,OE00039750
+PO49023,2025-12-11T18:42:03.851Z,Expected Pricing vs Billed Pricing issue. Please Credit Rebill,OE00039682,CFS-4462363,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.159,3.6137,0.4547,63.5,28.87345,2025-12-12T03:25:00.078Z,681260e061771294e67446c4,2025-12-12T03:25:00.078Z,OE00039750
+PO49023,2025-12-11T18:42:03.851Z,Expected Pricing vs Billed Pricing issue. Please Credit Rebill,OE00039682,CFS-4462363,Carrix,9999 - Pacific Rail Services LLC - 9050 Strauss Rd,dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.159,3.61386,0.45486,33.9,15.419754,2025-12-12T03:25:00.078Z,681260e061771294e67446c4,2025-12-12T03:25:00.078Z,OE00039750
+PO49020,2025-12-08T17:48:06.314Z,Price should have been $2.5752 vs. $2.5911 that was billed.,OE00039064,RO276634,Carrix,"3310/3416 Carondelet Avenue - Dupo, IL",dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.5752,2.5911,0.0159,326.8,5.1961200000000005,2025-12-10T09:01:49.386Z,681260e061771294e67446c4,2025-12-10T09:01:49.386Z,OE00039645
+PO48880,2025-12-08T16:56:30.639Z,"Expected Price was $2.9715 vs. $0.07, Please issue Credit Rebill.",OE00039448,25-532656,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_rebilled,,disputed,price_discrepancy,87 Unleaded (w/10% Eth),2.9715,0.07,-2.9015,413,-1198.3195,2025-12-09T20:18:25.501Z,681260e061771294e67446c4,2025-12-09T20:18:25.501Z,OE00039510
+PO45786,2025-12-04T21:28:19.034Z,Expecting Price was $3.1027 vs. Billed $3.5017. Please issue Credit Rebill.,OE00039011,182437DD,"Lazer Spot, Inc.","Molson - Site 102138 - Albany, GA",dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,3.1027,3.5017,0.399,230,91.77000000000001,2025-12-08T17:46:07.368Z,681260e061771294e67446c4,2025-12-08T17:46:07.368Z,OE00039501
+PO48663,2025-12-01T14:28:59.635Z,"Per the Schedule, it was only a $50 delivery fee. Please confirm OPIS Pricing, B2 or Dyed ULS2.",OE00039093,27231150,Carrix,PRS - Morrisville - 98 Cabot Blvd E,dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.5375,2.5587,0.0212,1456,30.8672,2025-12-04T00:52:24.706Z,681260e061771294e67446c4,2025-12-04T00:52:24.706Z,OE00039299
+PO48663,2025-12-01T14:28:59.635Z,"Per the Schedule, it was only a $50 delivery fee. Please confirm OPIS Pricing, B2 or Dyed ULS2.",OE00039093,27231150,Carrix,PRS - Morrisville - 98 Cabot Blvd E,dispute_rebilled,,disputed,price_discrepancy,Delivery Fee,50,200,150,1,150,2025-12-04T00:52:24.706Z,681260e061771294e67446c4,2025-12-04T00:52:24.706Z,OE00039299
+PO45787,2025-11-25T12:02:25.978Z,"Dyed Diesel-Gross Contract Average For Albany: $2.3625
+Akins Margin: $.45
+Total Price Per Contract: $2.8125
+Vendor Billed: $3.49959
+
+Difference: $.68709",OE00038882,182446DD,"Lazer Spot, Inc.","Molson - Site 102138 - Albany, GA",dispute_rebilled,,disputed,price_discrepancy,Red Dye Diesel #2 - ULS,2.9578,3.49959,0.54179,242,131.11318,2025-12-02T03:06:14.197Z,681260e061771294e67446c4,2025-12-02T03:06:14.197Z,OE00039161
+PO48663,,,OE00039299,27239594,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_rebilled,,detected,unexpected_line_item,Gasoline (Freight),0,134.84,134.84,1299,175157.16,,,,
+PO48663,,,OE00039299,27239594,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_rebilled,,detected,unexpected_line_item,Minimum Billable,0,197.33,197.33,1,197.33,,,,
+PO48663,,,OE00039299,27239594,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_rebilled,,detected,missing_line_item,Freight Charge Diesel,401.4192,0,-401.4192,1456,-584466.3552,,,,
+PO48663,,,OE00039299,27239594,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_rebilled,,detected,missing_line_item,Delivery Fee,50,0,-50,1,-50,,,,
+PO48663,,,OE00039299,27239594,Carrix,SSAT - Long Beach - C60 - 1521 Pier C St,dispute_rebilled,,detected,price_discrepancy,Red Dye Diesel #2 - ULS,2.5375,2.0624,-0.4751,1297,-616.2047,,,,
+PO48880,,,OE00039510,25-532656A,Carrix,SSAT - Seattle - T18 CEM - 1359 SW Lander St,dispute_rebilled,,solved,price_discrepancy,87 Unleaded (w/10% Eth),2.9715,2.971501,0.000001,413,0.00041299999999999996,,,,
+PO48887,,,OE00039642,RO276634CR,Carrix,"3310/3416 Carondelet Avenue - Dupo, IL",dispute_rebilled,,detected,unexpected_line_item,"A640 Diesel #2 Ultra LS Dyed Winter CRITICAL DESCRIPTION: NA1993, Diesel Fuel, Combustible Liquid, PG III Dyed Diesel, Non-Taxable Use Only, Penalty for Taxable Use",0,-846.77148,-846.77148,-326.8,276724.919664,,,,
+PO48887,,,OE00039642,RO276634CR,Carrix,"3310/3416 Carondelet Avenue - Dupo, IL",dispute_rebilled,,detected,missing_line_item,Red Dye Diesel #2 - ULS,841.57536,0,-841.57536,326.8,-275026.82764800003,,,,
+PO49023,,,OE00039750,25-536318,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_rebilled,,detected,unexpected_line_item,154454-1750 ULSD DYE #2 DSL COMBUSTIBLE LIQUID. THIS PRODUCT IS DYED DIESEL FUEL. NON TAXABLE USE ONLY. PENALTY FOR TAXABLE USE. MAX 15 PPM SULPHUR OR LESS. DOES NOT MEET CALIFORNIA SPECS. DYED MOTOR VEHICLE FUEL FOR USE IN ALL NONROAD DIESEL ENGINES. NOT FOR USE IN HIGHWAY VEHICLES OR ENGINES EXCEPT FOR TAX EXEMPT USE IN ACCORDANE WITH SECTION 4082 OF THE INTERNAL REVENUE CODE,0,899.44,899.44,288.2,259218.608,,,,
+PO49023,,,OE00039750,25-536318,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_rebilled,,detected,missing_line_item,Red Dye Diesel #2 - ULS,60.020999999999994,0,-60.020999999999994,19,-1140.399,,,,
+PO49023,,,OE00039750,25-536318,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_rebilled,,detected,missing_line_item,Red Dye Diesel #2 - ULS,264.09239999999994,0,-264.09239999999994,83.6,-22078.124639999995,,,,
+PO49023,,,OE00039750,25-536318,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_rebilled,,detected,missing_line_item,Red Dye Diesel #2 - ULS,200.5965,0,-200.5965,63.5,-12737.87775,,,,
+PO49023,,,OE00039750,25-536318,Carrix,RTS - Seattle - 4700 Denver Ave S,dispute_rebilled,,detected,missing_line_item,Red Dye Diesel #2 - ULS,107.09009999999999,0,-107.09009999999999,33.9,-3630.3543899999995,,,,
+PO48936,,,OE00039900,25-533655A,Carrix,SSAT - Seattle - T5 CEM - 3443 W Marginal Way SW,dispute_rebilled,,solved,price_discrepancy,87 Unleaded (w/10% Eth),2.3655,2.365533,0.000033,129.4,0.004270200000000001,,,,
+PO48933,,,OE00039904,25-533654A,Carrix,SSAT - Seattle - T5 CEM - 3443 W Marginal Way SW,dispute_rebilled,,solved,price_discrepancy,Red Dye Diesel #2 - ULS,3.1893,3.189299,-0.000001,2719.3,-0.0027193,,,,
+PO48509,,,OE00040217,1006101R,"Beard Equipment Company, INC.  ","Lake City, FL",dispute_rebilled,,detected,unexpected_line_item,"#473694-011 ULDF2R DIESEL FUEL, ULTRA LOW DYED - SITE ID",0,1067.89,1067.89,335.9,358704.251,,,,
+PO48509,,,OE00040217,1006101R,"Beard Equipment Company, INC.  ","Lake City, FL",dispute_rebilled,,detected,missing_line_item,Red Dye Diesel #2 - ULS,946.9692799999999,0,-946.9692799999999,335.9,-318086.98115199996,,,,
+PO48877,,,OE00040268,IN-164036A,Kittle Property Group Inc.,"Kittle - Canal Winchester, OH",dispute_rebilled,,detected,unexpected_line_item,Federal Diesel OSR,0,0.48,0.48,225,108.0,,,,
+PO48877,,,OE00040268,IN-164036A,Kittle Property Group Inc.,"Kittle - Canal Winchester, OH",dispute_rebilled,,detected,unexpected_line_item,NORA,0,0.45,0.45,225,101.25,,,,
