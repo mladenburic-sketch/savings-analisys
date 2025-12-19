@@ -33,22 +33,91 @@ st.set_page_config(
 st.title("💰 Savings Analysis Dashboard")
 st.markdown("Analyze savings (positive values) vs underbilled amounts (negative values)")
 
-# Data loading
-@st.cache_data
-def load_data():
-    """Loads and cleans data with caching"""
-    try:
-        df = load_disputes_data()
-        df_clean = clean_disputes_data(df)
-        return df_clean
-    except Exception as e:
-        st.error(f"Error loading data: {e}")
-        return pd.DataFrame()
+# Data loading section
+st.header("📁 Data Source")
 
-df = load_data()
+# Radio buttons for data source selection
+data_source = st.radio(
+    "Choose data source:",
+    ["Use default file", "Upload CSV file"],
+    horizontal=True
+)
+
+df = pd.DataFrame()
+
+if data_source == "Use default file":
+    # Load default file
+    @st.cache_data
+    def load_default_data():
+        """Loads and cleans default data with caching"""
+        try:
+            df = load_disputes_data()
+            df_clean = clean_disputes_data(df)
+            return df_clean
+        except Exception as e:
+            st.error(f"Error loading default data: {e}")
+            return pd.DataFrame()
+    
+    df = load_default_data()
+    if not df.empty:
+        st.success(f"✅ Default data loaded successfully! Loaded {len(df)} rows.")
+
+else:
+    # File uploader
+    with st.expander("ℹ️ CSV File Format Requirements"):
+        st.markdown("""
+        Your CSV file should contain the following columns:
+        - **po_number**: Purchase order number
+        - **disputedAt**: Date of dispute (format: YYYY-MM-DD or ISO format)
+        - **discrepancy_value**: Value of discrepancy (positive = savings, negative = underbilled)
+        - **customerName**: Customer name
+        - **siteName**: Site name
+        - **item**: Item description
+        - **discrepancy_type**: Type of discrepancy
+        - **gallons**: Number of gallons (optional)
+        - Other columns are optional and will be preserved
+        """)
+    
+    uploaded_file = st.file_uploader(
+        "Upload your CSV file",
+        type=['csv'],
+        help="Upload a CSV file with disputes data"
+    )
+    
+    if uploaded_file is not None:
+        try:
+            # Read uploaded file
+            df = pd.read_csv(uploaded_file)
+            
+            # Convert disputedAt to datetime
+            if 'disputedAt' in df.columns:
+                df['disputedAt'] = pd.to_datetime(df['disputedAt'], errors='coerce')
+            
+            # Convert overriddenAt to datetime if exists
+            if 'overriddenAt' in df.columns:
+                df['overriddenAt'] = pd.to_datetime(df['overriddenAt'], errors='coerce')
+            
+            # Convert archivedAt to datetime if exists
+            if 'archivedAt' in df.columns:
+                df['archivedAt'] = pd.to_datetime(df['archivedAt'], errors='coerce')
+            
+            # Clean the data
+            df = clean_disputes_data(df)
+            
+            st.success(f"✅ File uploaded successfully! Loaded {len(df)} rows.")
+            
+            # Show preview
+            with st.expander("📋 Preview uploaded data (first 5 rows)"):
+                st.dataframe(df.head(), use_container_width=True)
+            
+        except Exception as e:
+            st.error(f"Error reading uploaded file: {e}")
+            st.stop()
+    else:
+        st.info("👆 Please upload a CSV file above.")
 
 if df.empty:
-    st.warning("No data available for display.")
+    st.warning("No data available for display. Please upload a file or check the default data file.")
     st.stop()
 
 # --- SIDEBAR ---
